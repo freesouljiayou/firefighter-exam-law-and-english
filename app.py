@@ -269,31 +269,50 @@ for q in all_questions:
     if q['year'] not in selected_years: continue
     current_pool.append(q)
 
-# 分類篩選
-cat_counts = {q['category']: 0 for q in subject_data}
-for q in current_pool:
-    cat_counts[q['category']] = cat_counts.get(q['category'], 0) + 1
+# ==========================================
+# 4. 篩選功能 (針對法學英文簡化版)
+# ==========================================
 
-categories = sorted(list(set([q['category'] for q in subject_data])))
+# 1. 建立資料池 (初步過濾：科目、年份、搜尋、模式)
+current_pool = []
+for q in all_questions:
+    if q['subject'] != selected_subject: continue
+    if q['year'] not in selected_years: continue
+    
+    # 關鍵字搜尋
+    if keyword and keyword not in q['question']: continue
+    
+    # 模式過濾
+    if st.session_state['mode_index'] == 1 and q['id'] not in st.session_state['favorites']: continue
+    if st.session_state['mode_index'] == 2 and q['id'] not in st.session_state['mistakes']: continue
+    
+    current_pool.append(q)
+
+# 2. 領域篩選 (例如：憲法、民法、英文)
+# 先統計各領域的題目數量
+cat_counts = {}
+for q in current_pool:
+    cat = q.get('category', '未分類') # 使用 get 避免報錯
+    cat_counts[cat] = cat_counts.get(cat, 0) + 1
+
+# 建立選單選項
+categories = sorted(list(set([q.get('category', '未分類') for q in current_pool])))
 categories.insert(0, "全部")
 
-selected_category = st.sidebar.radio("領域", categories, format_func=lambda x: f"{x} ({cat_counts.get(x,0)})" if x != "全部" else f"全部 ({len(current_pool)})")
+# 顯示側邊欄選單
+selected_category = st.sidebar.radio(
+    "領域", 
+    categories, 
+    format_func=lambda x: f"{x} ({cat_counts.get(x, 0)})" if x != "全部" else f"全部 ({len(current_pool)})"
+)
 
-# 細項篩選
-selected_sub_cat = "全部"
-if selected_category != "全部":
-    sub_pool = [q for q in current_pool if q['category'] == selected_category]
-    sub_counts = {}
-    for q in sub_pool:
-        sub_counts[q['sub_category']] = sub_counts.get(q['sub_category'], 0) + 1
-    
-    base_sub_cats = sorted(list(set([q['sub_category'] for q in subject_data if q['category'] == selected_category])))
-    base_sub_cats.insert(0, "全部")
-    selected_sub_cat = st.sidebar.radio("細項", base_sub_cats, format_func=lambda x: f"{x} ({sub_counts.get(x,0)})" if x != "全部" else f"全部 ({len(sub_pool)})")
+# 3. 最終定案 (產出 final_questions)
+if selected_category == "全部":
+    final_questions = current_pool
+else:
+    final_questions = [q for q in current_pool if q.get('category') == selected_category]
 
-# 最終篩選結果
-final_questions = [q for q in current_pool if (selected_category == "全部" or q['category'] == selected_category) and (selected_sub_cat == "全部" or q['sub_category'] == selected_sub_cat)]
-
+# (原本的「細項篩選」整段已經刪除，因為法學英文不需要)
 # ==========================================
 # 6. 主畫面顯示與 PDF 按鈕
 # ==========================================
