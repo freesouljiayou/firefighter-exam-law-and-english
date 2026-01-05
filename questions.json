@@ -1,0 +1,4503 @@
+[
+  {
+    "id": 1,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "刑法",
+    "question": "刑法第310條第3項前段規定：「對於所誹謗之事，能證明其為真實者，不罰。」依相關司法院大法官解釋及憲法法庭判決，下列敘述何者正確？",
+    "options": [
+      "(A) 行為人須自行證明其言論內容確屬真實，始得免於刑責",
+      "(B) 行為人明知其為不實或對於真實與否抱持輕率之疏忽者，才負誹謗之責",
+      "(C) 行為人於發表前經合理查證程序，依所取得之證據資料，客觀上可合理相信其言論內容為真實者，不罰",
+      "(D) 保護個人名譽應以民事責任為之，加諸刑罰已逾越必要限度"
+    ],
+    "answer": "C",
+    "explanation": "參照司法院釋字第509號解釋及憲法法庭112年憲判字第8號判決意旨，行為人經合理查證程序，客觀上可合理相信其言論內容為真實者，即不該當誹謗罪。"
+  },
+  {
+    "id": 2,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法",
+    "question": "依司法院釋字第711號解釋，原藥師法第11條規定：「藥師經登記領照執業者，其執業處所應以一處為限。」違反下列何項原則？",
+    "options": [
+      "(A) 明確性原則",
+      "(B) 平等原則",
+      "(C) 比例原則",
+      "(D) 不當連結禁止原則"
+    ],
+    "answer": "C",
+    "explanation": "釋字第711號解釋認為，限制藥師執業處所以一處為限，未設必要之例外規定，對藥師執行職業自由形成不必要之限制，違反憲法第23條比例原則。"
+  },
+  {
+    "id": 3,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法",
+    "question": "依司法院釋字第499號解釋，下列何種憲法條文，不得任意修改，以免破毀憲法所形成之整體自由民主憲政規範秩序？",
+    "options": [
+      "(A) 具有本質重要性",
+      "(B) 間接民主規範性",
+      "(C) 國家元首尊嚴性",
+      "(D) 五權分權絕對性"
+    ],
+    "answer": "A",
+    "explanation": "釋字第499號解釋指出，憲法中具有本質之重要性而為規範秩序存立之基礎者（如民主共和國原則、國民主權原則、基本權利保障、權力分立與制衡），不得任意修改。"
+  },
+  {
+    "id": 4,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法",
+    "question": "學說上有認為憲法「基本國策」之規定具有「國家目標條款」之性質。下列關於「國家目標條款」之敘述，何者錯誤？",
+    "options": [
+      "(A) 國家目標條款除規定於憲法本文外，亦規定於憲法增修條文",
+      "(B) 國家目標條款所規定的內容，就是具體化的公共利益，可據以指出所有國家行為應遵循之方向",
+      "(C) 國家目標條款如何實踐，主要仰賴於立法者來具體型塑，立法者在此享有高度自由",
+      "(D) 國家目標條款賦予人民可據以請求司法實現的主觀公權利"
+    ],
+    "answer": "D",
+    "explanation": "基本國策（國家目標條款）原則上僅是方針條款，並非賦予人民直接可請求法院實現的「主觀公權利」，除非法律有進一步具體規定。"
+  },
+  {
+    "id": 5,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法",
+    "question": "因對抗新冠肺炎需投入大量第一線醫療人員防疫，因此衛生福利部下令醫事人員A禁止出國，以及從外國入境臺灣之B旅客須於防疫旅館隔離14天。請問A、B兩人之何種基本權受到干預？",
+    "options": [
+      "(A) 對A與B均構成其人身自由之干預",
+      "(B) 對A干預了人身自由，對B干預了遷徙自由",
+      "(C) 對A干預了遷徙自由，對B干預了人身自由",
+      "(D) 對A干預了遷徙自由，對B干預了隱私權"
+    ],
+    "answer": "C",
+    "explanation": "禁止出國限制的是A前往他處的「遷徙自由」；強制隔離14天則是拘束B的身體於特定處所，屬於對「人身自由」的干預。"
+  },
+  {
+    "id": 6,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法",
+    "question": "關於司法院大法官針對猥褻性言論所做的解釋，下列敘述何者錯誤？",
+    "options": [
+      "(A) 性言論之表現與性資訊之流通，不問是否出於營利，均應受憲法言論自由之保障",
+      "(B) 立法者欲對猥褻性言論加以限制，其規範應符合明確性原則",
+      "(C) 所謂「猥褻」，雖屬評價性規定，鑑於定義不清，應已違反法律明確性原則",
+      "(D) 判斷是否猥褻，應就出版品整體特性及其目的而為觀察，並依當時社會一般觀念定之"
+    ],
+    "answer": "C",
+    "explanation": "參照釋字第617號，大法官認為刑法關於「猥褻」之定義，依其解釋並未違反法律明確性原則。"
+  },
+  {
+    "id": 7,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法",
+    "question": "關於憲法第7條平等權保障的範圍與主體，下列敘述何者正確？",
+    "options": [
+      "(A) 憲法第7條所定男女、宗教、種族、階級、黨派，屬於列舉規定",
+      "(B) 中華民國人民、外國人、法人皆為平等權保障的主體",
+      "(C) 平等權的拘束僅限於司法、行政機關，不拘束立法機關",
+      "(D) 憲法第7條平等原則強調形式上平等"
+    ],
+    "answer": "B",
+    "explanation": "(A)是例示規定非列舉；(C)也拘束立法機關；(D)強調實質平等。故(B)正確，基本權主體原則上包含外國人與法人。"
+  },
+  {
+    "id": 8,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法",
+    "question": "依司法院大法官解釋，有關憲法上兵役義務，下列何者不屬於立法者的形成自由？",
+    "options": [
+      "(A) 是否以宗教理由而免除人民兵役義務",
+      "(B) 是否對違反兵員召集的行為課予刑罰",
+      "(C) 是否排除生理女性的服兵役義務",
+      "(D) 是否採計任公務員前服義務役之年資為公務員退休年資"
+    ],
+    "answer": "D",
+    "explanation": "參照釋字第455號，軍人服役年資與公務員年資應合併計算，這是國家對公務員的義務，立法者若不採計則違反平等原則，故非屬完全的形成自由。"
+  },
+  {
+    "id": 9,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法",
+    "question": "依憲法本文及增修條文之規定，有關總統之敘述，下列何者正確？",
+    "options": [
+      "(A) 總統不得為減刑權之行使，蓋減刑權乃司法院之職權",
+      "(B) 總統有報告國情之義務，因此須接受立法委員的質詢",
+      "(C) 總統雖具有刑事豁免權，然於必要時，仍得搜索總統之處所及身體",
+      "(D) 總統就行政院對立法院決議之法律案提出覆議，有核可權"
+    ],
+    "answer": "D",
+    "explanation": "依憲法增修條文第3條，行政院移請立法院覆議時，須經總統核可。(A)總統有大赦、特赦、減刑權；(B)聽取國情報告但不接受質詢；(C)刑事豁免權包含對身體的保全處分，原則上不得搜索。"
+  },
+  {
+    "id": 10,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法",
+    "question": "依憲法第105條規定，行政院所提出之決算案，應由下列何者依法完成其審核，並提出審核報告於立法院？",
+    "options": [
+      "(A) 監察委員",
+      "(B) 審計長",
+      "(C) 監察院國家人權委員會",
+      "(D) 主計長"
+    ],
+    "answer": "B",
+    "explanation": "憲法第105條：「行政院於會計年度結束後四個月內，應提出決算於監察院。監察院應於三個月內，由審計長依法完成其審核，並提出審核報告於立法院。」"
+  },
+  {
+    "id": 11,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法訴訟法",
+    "question": "憲法訴訟法沒有明文規定下列何者？",
+    "options": [
+      "(A) 法院審判權爭議之統一見解",
+      "(B) 暫時處分",
+      "(C) 裁判效力",
+      "(D) 政黨違憲解散案件之審理"
+    ],
+    "answer": "A",
+    "explanation": "法院審判權歸屬爭議（如普通法院與行政法院互推案件），現已改由「法院組織法」處理，非憲法訴訟法規定範圍。"
+  },
+  {
+    "id": 12,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法",
+    "question": "關於憲法基本權利，下列敘述何者錯誤？",
+    "options": [
+      "(A) 基本權利乃一個人生存所不可或缺，且其核心為永久不可侵犯之權利",
+      "(B) 為達公共利益目的，國家權力作用即得限制基本權利",
+      "(C) 基本權利對於立法權、司法權或行政權，皆具有拘束力",
+      "(D) 基本權利受到侵害時，可以請求司法救濟"
+    ],
+    "answer": "B",
+    "explanation": "依憲法第23條，限制基本權利除需有公益目的外，尚須符合「法律保留原則」（以法律限制）及「比例原則」，並非有公益目的即可任意限制。"
+  },
+  {
+    "id": 13,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法",
+    "question": "衛生福利部以「嚴重特殊傳染性肺炎防治及紓困振興特別條例」施行期間屆滿，擬停止企業紓困及振興等措施。甲認為我國經濟景氣不佳的狀況，依然嚴峻，乃向衛生福利部請求繼續實施前述措施。甲係行使下列何種憲法權利？",
+    "options": [
+      "(A) 訴願權",
+      "(B) 請願權",
+      "(C) 訴訟權",
+      "(D) 創制權"
+    ],
+    "answer": "B",
+    "explanation": "人民對國家政策之建議、行政違失之舉發等，屬於「請願」之範圍（憲法第16條）。"
+  },
+  {
+    "id": 14,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法",
+    "question": "甲原為大學教授，經任命為大法官。依現行規定及相關司法院大法官解釋，下列敘述何者正確？",
+    "options": [
+      "(A) 甲享有憲法第81條所定非依法律不得減俸之保障",
+      "(B) 甲從大法官退職後，享有終身職待遇之保障",
+      "(C) 甲任大法官3年後辭職，繼任其職位之大法官任期為5年",
+      "(D) 甲為隨政黨更迭之政務人員"
+    ],
+    "answer": "A",
+    "explanation": "大法官為憲法上之法官，享有憲法第81條法官身分保障（釋字第601號）。(B)現行大法官為任期制非終身職；(C)繼任者任期重新計算8年；(D)大法官超然獨立，非隨政黨更迭之政務官。"
+  },
+  {
+    "id": 15,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法",
+    "question": "依憲法本文及增修條文中關於中央與地方權限之規定，下列何者目前已不適用？",
+    "options": [
+      "(A) 航空、國道、國有鐵路、航政、郵政及電政等事項，由中央立法並執行之",
+      "(B) 省縣自治通則由中央立法並執行之，或交由省縣執行之",
+      "(C) 直轄市之自治，以法律定之",
+      "(D) 縣農林、水利、漁牧及工程等事項，由縣立法並執行之"
+    ],
+    "answer": "B",
+    "explanation": "憲法增修條文凍結了省自治的地位，「省縣自治通則」已不再適用，現行改為「地方制度法」。"
+  },
+  {
+    "id": 16,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "法學緒論",
+    "question": "下列關於強行法與任意法的敘述，何者錯誤？",
+    "options": [
+      "(A) 強行法與任意法的區分標準，在於是否容許基於當事人之自由意思，決定該法律應否加以適用",
+      "(B) 凡是法律之規定與公共利益直接相關或有重大影響者，多半定為強行法",
+      "(C) 民法及商事法之規定，多半為任意法之規定",
+      "(D) 凡屬公法性質之法律，其內容均為強行法規定，完全不存在有任意法之規定"
+    ],
+    "answer": "D",
+    "explanation": "公法中也有任意法規定，例如行政程序法中關於當事人可協議或選擇的程序事項，並非全然皆為強行法。"
+  },
+  {
+    "id": 17,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "勞動基準法",
+    "question": "依據勞動基準法之規定，下列何種情形，雇主不得未經預告終止勞動契約？",
+    "options": [
+      "(A) 勞工無正當理由繼續曠工3日",
+      "(B) 勞工患有法定傳染病，對共同工作之勞工有傳染之虞",
+      "(C) 勞工受有期徒刑以上刑之宣告確定，而未諭知緩刑或未准易科罰金",
+      "(D) 勞工對於雇主家屬為重大侮辱之行為"
+    ],
+    "answer": "B",
+    "explanation": "依勞基法第12條（雇主無須預告終止契約），包含ACD選項。勞工患傳染病通常應給予病假或留職停薪治療，非立即解僱事由。"
+  },
+  {
+    "id": 18,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "公職人員選舉罷免法",
+    "question": "公職人員選舉罷免法所稱之「中央公職人員」，係指下列何者？",
+    "options": [
+      "(A) 總統",
+      "(B) 省諮議員",
+      "(C) 立法委員",
+      "(D) 監察委員"
+    ],
+    "answer": "C",
+    "explanation": "依選罷法第2條，中央公職人員指立法院立法委員。（總統副總統另有專法；省諮議員、監察委員非民選）。"
+  },
+  {
+    "id": 19,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "行政程序法",
+    "question": "下列何種行政行為，不適用行政程序法之程序規定？",
+    "options": [
+      "(A) 監察院公告調查報告",
+      "(B) 外交部領事事務局依國民申請核發護照",
+      "(C) 內政部營建署發布違章建築處理辦法",
+      "(D) 衛生福利部中央健康保險署與醫療院所締結全民健康保險特約醫事服務機構合約"
+    ],
+    "answer": "A",
+    "explanation": "依行政程序法第3條，監察機關行使監察權之行為，不適用本法之程序規定。"
+  },
+  {
+    "id": 20,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "民法",
+    "question": "我國私立學校屬於下列何種法律主體？",
+    "options": [
+      "(A) 公司",
+      "(B) 非法人團體",
+      "(C) 社團法人",
+      "(D) 財團法人"
+    ],
+    "answer": "D",
+    "explanation": "私立學校之設立性質為捐助財產以興學，屬於「財團法人」。"
+  },
+  {
+    "id": 21,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "行政法",
+    "question": "關於平等原則，下列敘述何者錯誤？",
+    "options": [
+      "(A) 平等原則並不禁止差別待遇",
+      "(B) 平等原則保障人民法律上地位之實質平等",
+      "(C) 恣意禁止為平等原則之保障內涵",
+      "(D) 平等原則僅適用於給付行政領域"
+    ],
+    "answer": "D",
+    "explanation": "平等原則適用於所有行政領域（包含干涉行政與給付行政）。"
+  },
+  {
+    "id": 22,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "刑法",
+    "question": "關於假釋之敘述，下列何者錯誤？",
+    "options": [
+      "(A) 假釋可以撤銷",
+      "(B) 假釋撤銷後，其出獄日數不計入刑期內",
+      "(C) 假釋中因故意再犯罪，受有期徒刑以上之宣告者，得撤銷其假釋",
+      "(D) 假釋中因故意或過失再犯罪而遭撤銷其假釋者，應成立累犯"
+    ],
+    "answer": "D",
+    "explanation": "刑法第47條規定之「累犯」，須前案「執行完畢」後五年內再犯。假釋期間刑罰尚未執行完畢，故不構成累犯。"
+  },
+  {
+    "id": 23,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "著作權法",
+    "question": "依我國著作權法規定，下列行為，何者不侵害或不視為侵害著作權？",
+    "options": [
+      "(A) 於公司業務上使用之電腦中安裝未經授權之電腦程式，供員工營業上使用",
+      "(B) 出國旅遊時，於國外購買一本外文小說，放在自己的行李箱內攜帶回國",
+      "(C) 明知是未經授權重製之電腦程式，而出借給不特定多數人",
+      "(D) 未經著作財產權人同意而輸入二十本在國外合法重製的原文教科書"
+    ],
+    "answer": "B",
+    "explanation": "依著作權法規定，為供個人利用（非散布），輸入合法重製物（如正版書）且在規定數量內，不視為侵害著作權（真品平行輸入之例外）。"
+  },
+  {
+    "id": 24,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "公職人員選舉罷免法",
+    "question": "依公職人員選舉罷免法第4條規定，有關候選人年齡之計算，以算至下列何期日之前一日為準？",
+    "options": [
+      "(A) 選舉公告日",
+      "(B) 登記截止日",
+      "(C) 投票日",
+      "(D) 法定就職日"
+    ],
+    "answer": "C",
+    "explanation": "選舉人及候選人年齡之計算，以算至投票日前一日為準。"
+  },
+  {
+    "id": 25,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法訴訟法",
+    "question": "依憲法訴訟法規定，人民聲請裁判憲法審查案件，得由下列何者以一致決裁定不受理？",
+    "options": [
+      "(A) 大法庭",
+      "(B) 職務法庭",
+      "(C) 審查庭",
+      "(D) 憲法法庭"
+    ],
+    "answer": "C",
+    "explanation": "憲法訴訟法第61條：審查庭就聲請案件，得以一致決裁定不受理。"
+  },
+  {
+    "id": 26,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "憲法訴訟法",
+    "question": "依憲法訴訟法規定，下列何者非屬人民聲請裁判憲法審查之要件？",
+    "options": [
+      "(A) 須依法定程序用盡審級救濟",
+      "(B) 聲請案件必須具憲法重要性或為貫徹聲請人基本權利所必要者",
+      "(C) 聲請人必須指摘該裁判本身牴觸憲法",
+      "(D) 聲請人必須指摘該裁判所表示之見解，與不同審判權終審法院已表示之見解有異"
+    ],
+    "answer": "D",
+    "explanation": "(D)是「統一解釋法律命令」的聲請要件，並非「法規範或裁判憲法審查」的必要要件。"
+  },
+  {
+    "id": 27,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "民法",
+    "question": "有關夫妻之住所，下列敘述何者正確？",
+    "options": [
+      "(A) 妻以夫之住所為住所",
+      "(B) 協議不成時，得聲請戶政機關定之",
+      "(C) 若規定以夫之住所為住所，違反平等及比例原則",
+      "(D) 法院裁定前，推定為無住所"
+    ],
+    "answer": "C",
+    "explanation": "參照釋字第452號，舊民法規定「妻以夫之住所為住所」違反男女平等原則及比例原則。現行民法規定由雙方協議，協議不成由法院定之。"
+  },
+  {
+    "id": 28,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "行政程序法",
+    "question": "下列何者之行政行為應適用行政程序法之程序規定？",
+    "options": [
+      "(A) 民意機關",
+      "(B) 監察機關",
+      "(C) 司法機關",
+      "(D) 獨立行政機關"
+    ],
+    "answer": "D",
+    "explanation": "A、B、C（民意、監察、司法機關）依行政程序法第3條規定，其特定行為不適用本法程序規定。獨立行政機關（如中選會、公平會）仍屬行政機關，原則上適用。"
+  },
+  {
+    "id": 29,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "民法",
+    "question": "甲於開放的網路公開論壇上以不雅文字公然侮辱乙，致乙名譽受損及心理受創。關於乙在法律上可主張權利之敘述，下列何者錯誤？",
+    "options": [
+      "(A) 乙得就甲侵害名譽權請求損害賠償",
+      "(B) 乙得請求甲停止侵害，並移除該網站上之侮辱性文字",
+      "(C) 乙得請求法院命甲回復名譽之適當處分",
+      "(D) 依民法第18條規定，侵害人格權得請求慰撫金者，以法律有特別規定者為限，故乙不得對甲請求慰撫金"
+    ],
+    "answer": "D",
+    "explanation": "民法第195條已特別規定，不法侵害他人之名譽，被害人雖非財產上之損害，亦得請求賠償相當之金額（慰撫金）。故乙可以請求。"
+  },
+  {
+    "id": 30,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "民法",
+    "question": "甲男與乙女結婚，乙於婚後懷胎內，懷孕期間甲因丁之過失發生車禍死亡。關於胎兒丙之權利，下列敘述何者正確？",
+    "options": [
+      "(A) 因丙不具權利能力，絕對無繼承權",
+      "(B) 丙雖有權利能力，但因尚未出生無繼承權",
+      "(C) 丙有權利能力，但不得向丁請求損害賠償",
+      "(D) 若丙胎死腹中，則丙喪失權利能力"
+    ],
+    "answer": "D",
+    "explanation": "民法第7條：「胎兒以將來非死產者為限，關於其個人利益之保護，視為既已出生。」若死產（胎死腹中），則溯及既往無權利能力。"
+  },
+  {
+    "id": 31,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "Others might cry or get bent out of shape when their personal tastes are _______ and ridiculed, but not this young lady with a strong mind of her own.",
+    "options": [
+      "(A) launched",
+      "(B) announced",
+      "(C) pronounced",
+      "(D) denounced"
+    ],
+    "answer": "D",
+    "explanation": "denounced (譴責、抨擊)。句意：當個人品味受到抨擊和嘲笑時，別人可能會哭或生氣，但這位有主見的年輕女士不會。"
+  },
+  {
+    "id": 32,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "Susan used the _______ control to turn off the TV in the living room right before she stepped out of the door of her apartment.",
+    "options": [
+      "(A) dramatic",
+      "(B) normal",
+      "(C) remote",
+      "(D) tedious"
+    ],
+    "answer": "C",
+    "explanation": "remote control (遙控器)。"
+  },
+  {
+    "id": 33,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "Weeks after being hit by a 7.2 earthquake, the entire county, unfortunately, still faced many _______ situations that had left more than two million people homeless.",
+    "options": [
+      "(A) disastrous",
+      "(B) lucrative",
+      "(C) majestic",
+      "(D) technical"
+    ],
+    "answer": "A",
+    "explanation": "disastrous (災難性的)。"
+  },
+  {
+    "id": 34,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "The company's overhead costs have increased in recent months, leading to a decrease in profits despite higher sales _______.",
+    "options": [
+      "(A) faculty",
+      "(B) facility",
+      "(C) avenue",
+      "(D) revenue"
+    ],
+    "answer": "D",
+    "explanation": "revenue (營收、收入)。"
+  },
+  {
+    "id": 35,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "The head office of this international company is located in New York, and they have set up several _______ in different cities around the world.",
+    "options": [
+      "(A) compartments",
+      "(B) branches",
+      "(C) supplements",
+      "(D) ranches"
+    ],
+    "answer": "B",
+    "explanation": "branches (分公司、分部)。"
+  },
+  {
+    "id": 36,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "Apart from engendering widespread ecological disorders, pesticides have contributed to the _______ of a new breed of chemical-resistant, highly lethal superbugs.",
+    "options": [
+      "(A) emergence",
+      "(B) exclusion",
+      "(C) savage",
+      "(D) seduction"
+    ],
+    "answer": "A",
+    "explanation": "emergence (出現、興起)。"
+  },
+  {
+    "id": 37,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "The athlete's tenacious _______ and determination, thereby allowing her to overcome the obstacles in her path.",
+    "options": [
+      "(A) relaxation",
+      "(B) permanence",
+      "(C) reminiscence",
+      "(D) perseverance"
+    ],
+    "answer": "D",
+    "explanation": "perseverance (毅力、堅持不懈)。tenacious (頑強的)。"
+  },
+  {
+    "id": 38,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "Researchers anticipated the slowdown of economy. The _______ outlook scared investors away from the stock market.",
+    "options": [
+      "(A) gleaming",
+      "(B) glaring",
+      "(C) glamorous",
+      "(D) gloomy"
+    ],
+    "answer": "D",
+    "explanation": "gloomy (陰暗的、悲觀的)。"
+  },
+  {
+    "id": 39,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "The secretary told the manager that the schedule she arranged was a _______ one, not finalized yet.",
+    "options": [
+      "(A) tentative",
+      "(B) provincial",
+      "(C) constant",
+      "(D) visual"
+    ],
+    "answer": "A",
+    "explanation": "tentative (暫定的)。"
+  },
+  {
+    "id": 40,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "One effect caused by drinking too much alcoholic beverage is that our feeling is so stimulated that action and speech seem to be _______ up.",
+    "options": [
+      "(A) looked",
+      "(B) made",
+      "(C) passed",
+      "(D) speeded"
+    ],
+    "answer": "D",
+    "explanation": "speeded up (加速)。"
+  },
+  {
+    "id": 41,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "The artist spent months refining the intricate details of his latest painting, striving for _______.",
+    "options": [
+      "(A) remedy",
+      "(B) summary",
+      "(C) perfection",
+      "(D) recreation"
+    ],
+    "answer": "C",
+    "explanation": "perfection (完美)。"
+  },
+  {
+    "id": 42,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "In poor region where people usually die from hunger and diseases, infant _______ is higher than you can imagine.",
+    "options": [
+      "(A) morality",
+      "(B) mortality",
+      "(C) mortification",
+      "(D) multiplication"
+    ],
+    "answer": "B",
+    "explanation": "mortality (死亡率)。infant mortality (嬰兒死亡率)。"
+  },
+  {
+    "id": 43,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "The discovery of a potential cure for the disease marked a _______ moment in medical research, offering hope to countless patients worldwide.",
+    "options": [
+      "(A) total",
+      "(B) pivotal",
+      "(C) conventional",
+      "(D) indefinite"
+    ],
+    "answer": "B",
+    "explanation": "pivotal (關鍵的、樞紐的)。"
+  },
+  {
+    "id": 44,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "Mary's commitment to her students' education was evident in her _______ care for her students' academic and personal growth.",
+    "options": [
+      "(A) impotent",
+      "(B) reckless",
+      "(C) genuine",
+      "(D) fatal"
+    ],
+    "answer": "C",
+    "explanation": "genuine (真誠的)。"
+  },
+  {
+    "id": 45,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "In order to improve the air quality in the room, it is important to regularly _______ by opening the windows and allowing fresh air to circulate.",
+    "options": [
+      "(A) ventilate",
+      "(B) penetrate",
+      "(C) perspire",
+      "(D) vocalize"
+    ],
+    "answer": "A",
+    "explanation": "ventilate (通風)。"
+  },
+  {
+    "id": 46,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "Fusion food has likely been around for centuries, _______ humans have been exchanging facets of their culture.",
+    "options": [
+      "(A) as long as",
+      "(B) whatever",
+      "(C) whether",
+      "(D) as recent as"
+    ],
+    "answer": "A",
+    "explanation": "as long as (只要、長達...之久)。句意：只要人類開始交流文化，融合食物就存在了。"
+  },
+  {
+    "id": 47,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "It is thought to have _______ in San Francisco in the late 1800's, as Chinese foods in the US were developed to suit the middle-class American taste.",
+    "options": [
+      "(A) terminated",
+      "(B) extinguished",
+      "(C) invented",
+      "(D) originated"
+    ],
+    "answer": "D",
+    "explanation": "originated (起源)。"
+  },
+  {
+    "id": 48,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "What many Americans consider to be \"_______\" would likely never pass the test of authenticity in China.",
+    "options": [
+      "(A) fusion food",
+      "(B) Chinese food",
+      "(C) American food",
+      "(D) San Francisco food"
+    ],
+    "answer": "B",
+    "explanation": "Chinese food (中式食物)。句意：許多美國人認為的「中式食物」，在中國可能永遠過不了道地口味的檢驗（意指是美式中餐）。"
+  },
+  {
+    "id": 49,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "Trying out new combinations and seeing what works - and what _______ - is at the heart of fusion cooking.",
+    "options": [
+      "(A) isn't",
+      "(B) doesn't",
+      "(C) wasn't",
+      "(D) didn't"
+    ],
+    "answer": "B",
+    "explanation": "doesn't (works 的否定代動詞)。what works and what doesn't (什麼有效，什麼無效)。"
+  },
+  {
+    "id": 50,
+    "subject": "法學知識與英文",
+    "year": 113,
+    "category": "英文",
+    "question": "Instead of beating yourself up over a failed dish, consider it a _______ experience. Keep in mind that you can learn as much from a failure as you can from a success.",
+    "options": [
+      "(A) tedious",
+      "(B) discouraging",
+      "(C) rewarding",
+      "(D) frustrating"
+    ],
+    "answer": "C",
+    "explanation": "rewarding (有益的、值得的)。上下文強調從失敗中學習，故為正向形容詞。"
+  },
+  {
+    "id": 1,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "憲法",
+    "question": "關於秘密通訊自由，下列敘述何者錯誤？",
+    "options": [
+      "(A) 屬憲法所明文列舉保障之基本權利",
+      "(B) 於一定條件下，國家得以法律為合理必要之限制",
+      "(C) 通訊監察屬對秘密通訊自由之重大限制",
+      "(D) 主管機關應優先採行長期監聽手段，以充分掌握犯罪證據、預防犯罪"
+    ],
+    "answer": "D",
+    "explanation": "通訊監察（監聽）是對隱私權與秘密通訊自由的重大干預，應符合比例原則與最後手段性，非「優先採行」之手段，且應受法官保留原則之審查。"
+  },
+  {
+    "id": 2,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "憲法",
+    "question": "依憲法增修條文之規定，下列何者於政治參與上無特別保障規定？",
+    "options": [
+      "(A) 澎湖地區人民",
+      "(B) 僑居國外國民",
+      "(C) 馬祖地區人民",
+      "(D) 蘭嶼地區人民"
+    ],
+    "answer": "D",
+    "explanation": "憲法增修條文第10條及第4條針對「僑居國外國民」、「澎湖」、「金門」、「馬祖」地區人民有政治參與（如立委席次或保障）之特別規定。蘭嶼雖屬原住民居住地，但無單獨列舉之政治參與特別條款（通常歸於原住民保障）。"
+  },
+  {
+    "id": 3,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "憲法",
+    "question": "依據司法院大法官解釋意旨，下列何者應受到嚴格審查？",
+    "options": [
+      "(A) 菸品成分的強制標示",
+      "(B) 猥褻出版品的處罰",
+      "(C) 化妝品廣告的事前審查",
+      "(D) 菸品業者顯名贊助的禁止"
+    ],
+    "answer": "C",
+    "explanation": "釋字第744號解釋：化妝品廣告之事前審查，係對言論自由之事前限制，原則上應不許，例外須符合嚴格審查標準。"
+  },
+  {
+    "id": 4,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "憲法",
+    "question": "國家法律如限制勞工組織工會，係干預下列何項基本權利？",
+    "options": [
+      "(A) 生存權",
+      "(B) 財產權",
+      "(C) 集會自由",
+      "(D) 結社自由"
+    ],
+    "answer": "D",
+    "explanation": "組織工會屬於人民團體之結社，受憲法第14條「結社自由」之保障。"
+  },
+  {
+    "id": 5,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "憲法",
+    "question": "監督寺廟條例第8條之規範對象，僅適用於佛、道等部分宗教，依司法院大法官之解釋意旨，系爭規定遭宣告違憲的主要理由是違反下列何種原則？",
+    "options": [
+      "(A) 政教分離原則",
+      "(B) 平等原則",
+      "(C) 比例原則",
+      "(D) 法律明確性原則"
+    ],
+    "answer": "B",
+    "explanation": "釋字第573號解釋：監督寺廟條例僅規範特定宗教（佛、道），未及於其他宗教，違反憲法第7條宗教平等原則。"
+  },
+  {
+    "id": 6,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "憲法",
+    "question": "若選舉制度之設計，使某些地區之當選票數明顯低於其他地區，此種情況最容易違反下列何種選舉基本原則？",
+    "options": [
+      "(A) 普通原則",
+      "(B) 直接原則",
+      "(C) 平等原則",
+      "(D) 秘密原則"
+    ],
+    "answer": "C",
+    "explanation": "票票等值（每張選票的價值應相等）是選舉「平等原則」的內涵。若當選基數懸殊，即違反平等原則。"
+  },
+  {
+    "id": 7,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "憲法",
+    "question": "憲法及增修條文中關於「軍人」及「服兵役」之規定，下列敘述何者錯誤？",
+    "options": [
+      "(A) 服兵役為人民之義務",
+      "(B) 軍人亦屬監察院彈劾之對象",
+      "(C) 人民除現役軍人外，不受軍事審判",
+      "(D) 軍人應效忠領袖，愛護人民"
+    ],
+    "answer": "D",
+    "explanation": "憲法第138條規定：「全國陸海空軍，須超出個人、地域及黨派關係以外，效忠『國家』，愛護『人民』。」並非效忠領袖。"
+  },
+  {
+    "id": 8,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "憲法",
+    "question": "未成年人甲之父親為中華民國國民，母親為外國人，因疫情而不被許可入境，致甲與母親相隔兩地，甲之下列何者權利最不可能受到上述隔絕措施之侵害？",
+    "options": [
+      "(A) 人格發展自由",
+      "(B) 人身自由",
+      "(C) 平等權",
+      "(D) 家庭團聚權"
+    ],
+    "answer": "B",
+    "explanation": "人身自由（憲法第8條）主要指身體不受非法逮捕、拘禁等物理性拘束。無法入境導致分隔兩地，涉及家庭權、居住遷徙自由等，但未直接限制甲的身體活動自由。"
+  },
+  {
+    "id": 9,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "行政法",
+    "question": "道路交通管理處罰條例規定：汽車駕駛人拒絕酒測者，吊銷其駕照、禁其三年內考領駕照，並吊銷所持各級車類駕照。甲持有職業大貨車駕照，因休息時駕駛重型機車外出拒絕酒測被吊銷各級駕照，而無法繼續工作。依據大法官解釋之意旨，下列關於前述規定之合憲性，何者最為正確？",
+    "options": [
+      "(A) 系爭規定未涉及人民之工作權，因我國採抽象審查，甲的工作權受限制為個案事實",
+      "(B) 吊銷駕照之手段，可促使駕駛人接受酒測，但拒絕酒測不等於酒駕，手段非屬於達成交通安全目的之最小侵害手段",
+      "(C) 職業駕駛人應有比一般人高的駕駛品德，故司法審查就吊銷駕照規定應採取嚴格審查標準",
+      "(D) 立法者宜給予執法者權限，使執法者能夠審酌甲是否有酒測紀錄、拒酒測時所駕駛的車輛種類，而為妥適處理"
+    ],
+    "answer": "D",
+    "explanation": "釋字第699號解釋認為該規定原則合憲，但同時指明：「有關機關...宜就是否區分違規情節...及所駕駛車輛種類...檢討修正」，即選項D之意旨。"
+  },
+  {
+    "id": 10,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "憲法",
+    "question": "依司法院大法官解釋意旨，關於預算，下列敘述何者錯誤？",
+    "options": [
+      "(A) 法定預算之形式雖與法律案相當，因其內容、規範對象及審議方式與法律案不同，又稱為措施性法律",
+      "(B) 歲入法定預算之執行須依據各種稅法、公共債務法等相關規定，始有實現之可能",
+      "(C) 歲出法定預算係對預算執行機關歲入及未來承諾之授權規範，故其得基於執行預算之彈性而自行選擇執行項目或停止執行",
+      "(D) 立法院於審議中央政府總預算案時刪除司法院大法官支領司法人員專業加給預算之情形，與憲法第81條規定意旨不符"
+    ],
+    "answer": "C",
+    "explanation": "釋字第520號解釋：法定預算對行政機關有拘束力，行政機關原則上應依預算執行，不得自由選擇執行項目或任意停止執行（除因情事變更等法定原因外）。"
+  },
+  {
+    "id": 11,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "憲法",
+    "question": "關於考試委員及監察委員之任期，下列何者正確？",
+    "options": [
+      "(A) 兩者都是4年",
+      "(B) 兩者都是6年",
+      "(C) 考試委員是4年，監察委員是6年",
+      "(D) 考試委員是6年，監察委員是4年"
+    ],
+    "answer": "C",
+    "explanation": "考試院組織法規定考試委員任期4年；憲法增修條文規定監察委員任期6年。"
+  },
+  {
+    "id": 12,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "憲法",
+    "question": "依現行規定，有關法官地位之保障，下列敘述何者錯誤？",
+    "options": [
+      "(A) 法官非受刑事或懲戒處分、禁治產之宣告，不得免職",
+      "(B) 法官非依法律，不得停職、轉任或減俸",
+      "(C) 法官身分保障之對象，亦及於其所兼任之庭長職務",
+      "(D) 非由實任法官轉任之司法院大法官，不適用法官終身職待遇及優遇制度之規定"
+    ],
+    "answer": "C",
+    "explanation": "釋字第601號解釋：庭長乃行政職務，非憲法第81條法官身分保障之對象，故免除庭長職務不須依法律程序。"
+  },
+  {
+    "id": 13,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "憲法",
+    "question": "下列何者，必須經大法官組成憲法法庭審理？",
+    "options": [
+      "(A) 政黨違憲解散案",
+      "(B) 總統罷免案",
+      "(C) 副總統繼任總統職位之確認",
+      "(D) 總統宣布戒嚴案"
+    ],
+    "answer": "A",
+    "explanation": "憲法增修條文第5條規定，政黨違憲之解散，由憲法法庭審理之。（註：總統罷免案由立法院提案，人民投票；彈劾案才由憲法法庭審理）。"
+  },
+  {
+    "id": 14,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "地方制度法",
+    "question": "有關地方自治團體的敘述，下列敘述何者正確？",
+    "options": [
+      "(A) 中央依據法律使地方分擔保險費之補助，未涉及到地方財政自主權之事項",
+      "(B) 地方自治團體所屬公務員應到立法院備詢",
+      "(C) 地方自治團體享有自主組織權以及對自治事項制定法規並執行之權限",
+      "(D) 中央與地方權限分配，如有未列舉事項發生而產生爭議時，由司法院處理之"
+    ],
+    "answer": "C",
+    "explanation": "(A)涉及財政自主（釋字550）；(B)地方公務員原則無至立法院備詢義務（釋字498）；(D)權限爭議由立法院解決（憲法111）。故(C)正確。"
+  },
+  {
+    "id": 15,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "憲法",
+    "question": "依憲法本文規定，我國最高行政機關為何？",
+    "options": [
+      "(A) 行政院",
+      "(B) 國家安全會議",
+      "(C) 總統及行政院",
+      "(D) 總統"
+    ],
+    "answer": "A",
+    "explanation": "憲法第53條：「行政院為國家最高行政機關。」"
+  },
+  {
+    "id": 16,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "行政法",
+    "question": "下列何者非屬行政機關？",
+    "options": [
+      "(A) 行政院人事行政總處",
+      "(B) 公平交易委員會",
+      "(C) 總統府第一局",
+      "(D) 臺北市政府衛生局"
+    ],
+    "answer": "C",
+    "explanation": "行政機關須具有單獨法定地位、有印信、能對外行文。總統府第一局僅為總統府內部之幕僚單位，非獨立之行政機關。"
+  },
+  {
+    "id": 17,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "行政法",
+    "question": "下列何種行政救濟制度現已不存在？",
+    "options": [
+      "(A) 復查",
+      "(B) 訴願",
+      "(C) 再訴願",
+      "(D) 行政訴訟"
+    ],
+    "answer": "C",
+    "explanation": "我國行政救濟制度經修法後，已廢除「再訴願」制度，現行原則為「訴願 -> 行政訴訟」。"
+  },
+  {
+    "id": 18,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "刑法",
+    "question": "下列有關故意與過失的說法，何者錯誤？",
+    "options": [
+      "(A) 刑法上之故意包含事前故意及事後故意",
+      "(B) 無認識過失係指行為人雖非故意，但按其情節應注意，並能注意，而不注意",
+      "(C) 未必故意係指行為人對於構成犯罪之事實，預見其發生而其發生並不違背其本意",
+      "(D) 行為非出於故意或過失，不罰"
+    ],
+    "answer": "A",
+    "explanation": "刑法上之故意須於「行為時」存在（同時性原則）。事前故意（尚未著手）或事後故意（行為後才知情）皆非刑法上之故意。"
+  },
+  {
+    "id": 19,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "民法",
+    "question": "依民法有關物之規定，下列敘述何者錯誤？",
+    "options": [
+      "(A) 物分為不動產與動產",
+      "(B) 從物乃主物之成分",
+      "(C) 不動產分為土地與定著物",
+      "(D) 物為人力所得支配之有體物"
+    ],
+    "answer": "B",
+    "explanation": "民法第68條：從物係指非主物之成分，常助主物之效用，而同屬於一人者。若為成分（如房屋的樑柱），則已成為主物的一部分，非從物。"
+  },
+  {
+    "id": 20,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "行政法",
+    "question": "權利人長期間不行使權利，使義務人依其狀況而認權利人放棄權利之行使，則該權利雖未消滅，亦不得再行使。此係源自於何種行政法一般法律原則？",
+    "options": [
+      "(A) 平等原則",
+      "(B) 誠實信用原則",
+      "(C) 比例原則",
+      "(D) 法律明確性原則"
+    ],
+    "answer": "B",
+    "explanation": "此為「權利失效原則」（Verwirkung），源自於誠實信用原則，指權利人長期不行使權利，致相對人信賴其不再行使，嗣後再行使即違反誠信。"
+  },
+  {
+    "id": 21,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "行政法",
+    "question": "關於行政機關為行政行為時應注意遵循之行政法原則，下列敘述何者錯誤？",
+    "options": [
+      "(A) 法律賦予行政機關裁量權，行政機關於此範圍即得自由為之，不受任何限制",
+      "(B) 行政行為如有正當理由，仍得為差別待遇",
+      "(C) 行政機關為行政行為應遵循誠信原則",
+      "(D) 行政機關為行政行為時，對當事人有利及不利的情形均應注意"
+    ],
+    "answer": "A",
+    "explanation": "行政裁量權並非完全自由，仍受法律授權目的、一般法律原則（如比例原則、平等原則）之拘束，不得恣意為之（裁量瑕疵）。"
+  },
+  {
+    "id": 22,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "刑法",
+    "question": "刑法第126條規定「有管收、解送或拘禁人犯職務之公務員，對於人犯施以凌虐者，處1年以上7年以下有期徒刑。」下列公務員何者不會成為本罪之行為主體？",
+    "options": [
+      "(A) 法警",
+      "(B) 看守所人員",
+      "(C) 法官",
+      "(D) 司法警察"
+    ],
+    "answer": "C",
+    "explanation": "法官之職務為審判，並非負責「管收、解送或拘禁」人犯之執行人員，故非本罪之身分犯主體。"
+  },
+  {
+    "id": 23,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "刑法",
+    "question": "有關刑法第135條及第136條妨害公務罪之敘述，下列何者錯誤？",
+    "options": [
+      "(A) 在抗議現場靜坐或任由抬離，不構成刑法第135條妨害公務罪",
+      "(B) 威脅公務員將向其上級長官檢舉其行為，不構成刑法第135條妨害公務罪",
+      "(C) 公然聚眾而犯妨害公務罪者，其在場助勢之人亦成立刑法第136條第1項之罪",
+      "(D) 聚眾妨害公務罪之首謀，若構成妨害公務罪之共同正犯，應優先論以刑法第135條妨害公務罪之共同正犯"
+    ],
+    "answer": "D",
+    "explanation": "聚眾妨害公務應優先適用刑法第136條（聚眾妨害公務罪），該條係針對聚眾施強暴脅迫之特別規定，首謀及下手實施者依該條處罰，而非論以135條之共同正犯。"
+  },
+  {
+    "id": 24,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "公司法",
+    "question": "依據我國公司法，股份有限公司合併時，下列那一個步驟並非法定必要程序？",
+    "options": [
+      "(A) 董事會應作成合併契約，提出於股東會",
+      "(B) 股東會應有代表已發行股份總數3分之2以上股東出席，以出席股東表決權過半數同意之",
+      "(C) 應載明於股東會召集事由",
+      "(D) 公司為合併之決議前，應向各債權人分別通知及公告"
+    ],
+    "answer": "D",
+    "explanation": "公司法第319條準用第73條規定，公司決議合併「後」，應即向債權人通知及公告，而非決議「前」。"
+  },
+  {
+    "id": 25,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "勞動基準法",
+    "question": "甲應聘於雇主A時，雇主特別強調，該公司採取責任制，因此工時無上限，也無加班費，自己把工作做完再下班，甲迫於無奈，但為了生活也只能繼續上班。關於該公司加班費的設定方式，下列敘述何者正確？",
+    "options": [
+      "(A) 加班費規定合法，雇主應有權利規定其勞工之工作內容以及類型，採用無加班費的責任制",
+      "(B) 加班費規定違法，勞動基準法第24條之加班費屬於強制規定，雇主即便單方面設定無加班費的責任制規定，也不因此免除加班費的給付義務",
+      "(C) 加班費規定違法，但設定責任制工時無上限合法，只要依法定利率給付加班費即可",
+      "(D) 加班費規定合法，因為勞工甲在知悉沒有加班費之規定後，依然持續上班，已經默示同意"
+    ],
+    "answer": "B",
+    "explanation": "責任制（勞基法84-1條）須經核定公告之行業且經書面約定並報請主管機關核備，並非雇主單方說了算。縱使適用責任制，超過約定工時仍需給付加班費，且不得低於基本工資。"
+  },
+  {
+    "id": 26,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "性別工作平等法",
+    "question": "依性別工作平等法之規定，受僱者任職至少滿多久才有資格申請育嬰留職停薪？",
+    "options": [
+      "(A) 3個月",
+      "(B) 6個月",
+      "(C) 9個月",
+      "(D) 1年"
+    ],
+    "answer": "B",
+    "explanation": "性別工作平等法第16條規定，受僱者任職滿六個月後，於每一子女滿三歲前，得申請育嬰留職停薪。"
+  },
+  {
+    "id": 27,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "地方制度法",
+    "question": "關於地方自治團體之自治法規，下列敘述何者錯誤？",
+    "options": [
+      "(A) 自治條例係經地方立法機關通過",
+      "(B) 自治規則係由地方行政機關訂定",
+      "(C) 自治條例須報內政部核定，始生效力",
+      "(D) 自治條例得規定處以罰鍰或其他種類行政罰"
+    ],
+    "answer": "C",
+    "explanation": "自治條例若定有罰則，需報上級政府核定後生效；若無罰則，原則上發布後報上級政府備查即可，並非所有自治條例皆須核定始生效力。"
+  },
+  {
+    "id": 28,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "民法",
+    "question": "買賣雙方約定種類之債買賣，買受人應於出賣人通知時至出賣人之住所處取貨，買受人於取貨時付款。嗣後出賣人業已通知買受人前來取貨，但買受人遲遲未至出賣人之住所處取貨，就在買受人取貨前，因不明火災，出賣人欲交付於買受人之物品燒毀。下列敘述何者正確？",
+    "options": [
+      "(A) 買賣標的物已特定，買受人仍必須繳款，價金危險由買受人承擔",
+      "(B) 買受人無須繳款，價金危險應由出賣人承擔",
+      "(C) 出賣人必須再發貨一次",
+      "(D) 因不可歸責雙方當事人，以致給付不能，故買受人免價金對待給付"
+    ],
+    "answer": "A",
+    "explanation": "依民法第373條及231條，買受人受領遲延時，危險由買受人負擔。出賣人已通知取貨，買受人遲延，故價金風險移轉給買受人，買受人仍需支付價金。"
+  },
+  {
+    "id": 29,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "民法",
+    "question": "甲女與乙男結婚時，乙有一與已過世前妻丙生育的獨子丁，丁與戊女為夫妻。如甲未收養丁，下列就甲、戊間關係之敘述，何者正確？",
+    "options": [
+      "(A) 無親屬關係",
+      "(B) 一親等旁系血親",
+      "(C) 一親等旁系姻親",
+      "(D) 二親等旁系姻親"
+    ],
+    "answer": "A",
+    "explanation": "【考選部公告：本題一律給分】依現行民法，血親之配偶為姻親（甲的配偶是乙，乙的兒子是丁，所以丁是甲的直系姻親）。但配偶之血親之配偶（甲的配偶乙，乙的兒子丁，丁的配偶戊）並非姻親。故甲與戊無親屬關係。"
+  },
+  {
+    "id": 30,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "民法",
+    "question": "甲男與乙女結婚，乙於婚後懷胎內，懷孕期間甲因丁之過失發生車禍死亡。關於胎兒丙之權利，下列敘述何者正確？",
+    "options": [
+      "(A) 因丙不具權利能力，絕對無繼承權",
+      "(B) 丙雖有權利能力，但因尚未出生無繼承權",
+      "(C) 丙有權利能力，但不得向丁請求損害賠償",
+      "(D) 若丙胎死腹中，則丙喪失權利能力"
+    ],
+    "answer": "C",
+    "explanation": "依民法第7條，胎兒關於其個人利益之保護，視為既已出生。故有繼承權。選項C為本題官方答案（可能考點在於間接被害或特定賠償請求權之認定），但選項D依「解除條件說」若死產則溯及既往無權利能力（非「喪失」），故D語意亦可能有誤。"
+  },
+  {
+    "id": 31,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "To avoid diagnostic errors, breast imaging subspecialists and general radiologists who _______ breast images should adhere to the unique lexicon of the handbook.",
+    "options": [
+      "(A) interpret",
+      "(B) paralyze",
+      "(C) excerpt",
+      "(D) provoke"
+    ],
+    "answer": "A",
+    "explanation": "interpret (判讀、解釋)。句意：為了避免診斷錯誤，判讀乳房影像的專家應遵守手冊的專門術語。"
+  },
+  {
+    "id": 32,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "She has been _______ with making money because she grew up in poverty.",
+    "options": [
+      "(A) converted",
+      "(B) obsessed",
+      "(C) oscillated",
+      "(D) contrived"
+    ],
+    "answer": "B",
+    "explanation": "obsessed (著迷、執著)。be obsessed with (對...著迷)。"
+  },
+  {
+    "id": 33,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "The judge offered the criminal the _______ of a fine of ten thousand dollars or three months in prison.",
+    "options": [
+      "(A) altercation",
+      "(B) alternative",
+      "(C) appreciation",
+      "(D) appeasement"
+    ],
+    "answer": "B",
+    "explanation": "alternative (選擇、替代方案)。"
+  },
+  {
+    "id": 34,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "It is fun for me to recruit new people, but letting workers go is the _______ enjoyable part of what I do.",
+    "options": [
+      "(A) least",
+      "(B) graphically",
+      "(C) both",
+      "(D) physically"
+    ],
+    "answer": "A",
+    "explanation": "the least enjoyable (最不喜歡的)。"
+  },
+  {
+    "id": 35,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "Mountain-climbing is an opportunity to participate in a very individual _______ which pits the climber against nature.",
+    "options": [
+      "(A) competition",
+      "(B) finance",
+      "(C) surveillance",
+      "(D) punctuation"
+    ],
+    "answer": "A",
+    "explanation": "competition (競賽、競爭)。"
+  },
+  {
+    "id": 36,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "The company failed to meet its short-term _______ of expanding into Asia.",
+    "options": [
+      "(A) commission",
+      "(B) objective",
+      "(C) liability",
+      "(D) emigration"
+    ],
+    "answer": "B",
+    "explanation": "objective (目標)。"
+  },
+  {
+    "id": 37,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "I was hoping my mother would say something first _______ him from head to toe, and I could anticipate what criticisms she would have.",
+    "options": [
+      "(A) demonstrated",
+      "(B) indulged",
+      "(C) ignored",
+      "(D) scrutinized"
+    ],
+    "answer": "D",
+    "explanation": "scrutinized (仔細打量、審視)。"
+  },
+  {
+    "id": 38,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "Joseph is always _______ by the amazing way those female supermodels move in high heels, swinging and turning their bodies so skillfully and gracefully, on the runway.",
+    "options": [
+      "(A) contaminated",
+      "(B) designated",
+      "(C) fascinated",
+      "(D) terminated"
+    ],
+    "answer": "C",
+    "explanation": "fascinated (著迷的)。"
+  },
+  {
+    "id": 39,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "Professor Wu is good at _______ the spirits of the students in her Monday morning class with jokes and questions helping them chase away their Monday blues.",
+    "options": [
+      "(A) arousing",
+      "(B) exploring",
+      "(C) invading",
+      "(D) obtaining"
+    ],
+    "answer": "A",
+    "explanation": "arousing (喚起、激起)。"
+  },
+  {
+    "id": 40,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "While the Congress's investigation report did not conclude that the president had committed bribery, it did not _______ him crimes related to obstruction of justice.",
+    "options": [
+      "(A) abdicate",
+      "(B) exonerate",
+      "(C) interrogate",
+      "(D) obligate"
+    ],
+    "answer": "B",
+    "explanation": "exonerate (免除罪責、證明無罪)。"
+  },
+  {
+    "id": 41,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "It was designed by architect Julia Morgan, _______ between 1919 and 1947, as a residence for newspaper magnate William Randolph Hearst.",
+    "options": [
+      "(A) built",
+      "(B) building",
+      "(C) to be built",
+      "(D) to have built"
+    ],
+    "answer": "A",
+    "explanation": "過去分詞片語修飾前面的 It (Hearst Castle)，表示「被建造」。"
+  },
+  {
+    "id": 42,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "_______ its location far from any urban center, the site attracts millions of travelers each year.",
+    "options": [
+      "(A) Besides",
+      "(B) Despite",
+      "(C) Instead of",
+      "(D) Along with"
+    ],
+    "answer": "B",
+    "explanation": "Despite (儘管)。儘管地點偏遠，仍吸引數百萬遊客。"
+  },
+  {
+    "id": 43,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "While guests were expected to attend the formal dinners each evening, they were normally left to their own _______ during the day while Hearst directed his business affairs.",
+    "options": [
+      "(A) categories",
+      "(B) dwellings",
+      "(C) segments",
+      "(D) terminals"
+    ],
+    "answer": "B",
+    "explanation": "dwellings (住處)。意指客人白天各自回房/待在自己的住處，赫斯特則處理公務。"
+  },
+  {
+    "id": 44,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "Since the estate had so many facilities, including its own movie studio, guests were _______ at a loss for things to do.",
+    "options": [
+      "(A) briefly",
+      "(B) nearly",
+      "(C) partly",
+      "(D) rarely"
+    ],
+    "answer": "D",
+    "explanation": "rarely (很少、難得)。因為設施很多，客人「很少」會覺得無聊沒事做。"
+  },
+  {
+    "id": 45,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "To uphold the estate's non-profit image, _______ filming is not often at Hearst Castle and most requests are turned down.",
+    "options": [
+      "(A) commercial",
+      "(B) preliminary",
+      "(C) reflective",
+      "(D) spontaneous"
+    ],
+    "answer": "A",
+    "explanation": "commercial filming (商業拍攝)。"
+  },
+  {
+    "id": 46,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "What is most likely the author's purpose for writing this news report?",
+    "options": [
+      "(A) To urge people to respect the rights and interests of refugees.",
+      "(B) To reveal the prevalent problem of immigrants.",
+      "(C) To persuade people into helping solve the hygienic problem of illegal immigrants.",
+      "(D) To value the financial aids carried out by the human rights groups."
+    ],
+    "answer": "A",
+    "explanation": "文章報導難民在拘留營的困境及抗議活動，旨在呼籲關注並尊重難民權益。"
+  },
+  {
+    "id": 47,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "What does \"condemned\" mean in the first paragraph?",
+    "options": [
+      "(A) encouraged",
+      "(B) condoned",
+      "(C) criticized",
+      "(D) enforced"
+    ],
+    "answer": "C",
+    "explanation": "condemned (譴責)。同義詞為 criticized。"
+  },
+  {
+    "id": 48,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "According to the passage, which of the following statements is correct?",
+    "options": [
+      "(A) Those refugees have called for the help of international human rights groups.",
+      "(B) The news about the cases of death on those detention camps have been released to the world.",
+      "(C) The Australian government allows the refugees who are asylum-seekers to stay in Melbourne.",
+      "(D) None of the human rights groups supported the rescuing of those refugees in distress."
+    ],
+    "answer": "B",
+    "explanation": "文中提到難民的悲慘故事及死亡案例被世界所知 (are heard worldwide)。"
+  },
+  {
+    "id": 49,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "According to the passage, why did the demonstrators in Australia march across cities to protest against this detention policy?",
+    "options": [
+      "(A) They want to celebrate the implementation of the detention policy.",
+      "(B) They do not want Australia to become a disgraceful nation.",
+      "(C) They welcome the arrival of the refugees in their country.",
+      "(D) They think the detention has been too long and inappropriate."
+    ],
+    "answer": "D",
+    "explanation": "文中提到抗議者認為五年太長了 (five years are too long for the detention)。"
+  },
+  {
+    "id": 50,
+    "subject": "法學知識與英文",
+    "year": 111,
+    "category": "英文",
+    "question": "What has the Australian government done to release the tension of the detention centers?",
+    "options": [
+      "(A) They have assisted the human rights groups in deporting refugees back to their own countries.",
+      "(B) They have attempted to terminate the offshore detention policy.",
+      "(C) They have sent a number of refugees to third countries as asylum-seekers.",
+      "(D) They have encouraged those detained refugees to stay in mainland Australia."
+    ],
+    "answer": "C",
+    "explanation": "文中最後一段提到澳洲政府試圖將難民安排到第三國（如美國）。"
+  },
+  {
+    "id": 1,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "就我國司法制度應否引進國民參審制或陪審制，關於其立法權及執行權之歸屬，下列敘述何者正確？",
+    "options": [
+      "(A) 由中央立法，交由地方執行之",
+      "(B) 由中央立法並執行之",
+      "(C) 由地方立法並執行之",
+      "(D) 由中央立法並執行之，或交由地方執行之"
+    ],
+    "answer": "B",
+    "explanation": "依憲法第107條規定，司法制度屬於中央立法並執行之事項。"
+  },
+  {
+    "id": 2,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "依憲法規定，法律牴觸憲法發生疑義，應如何處理？",
+    "options": [
+      "(A) 由立法院解釋",
+      "(B) 由法務部解釋",
+      "(C) 由司法院解釋",
+      "(D) 由總統解釋"
+    ],
+    "answer": "C",
+    "explanation": "依憲法第78條、第171條第2項規定，法律與憲法有無牴觸發生疑義時，由司法院解釋之。"
+  },
+  {
+    "id": 3,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "依憲法本文之規定，監察院得向何機關提出糾正案？",
+    "options": [
+      "(A) 立法院",
+      "(B) 司法院",
+      "(C) 考試院及其部會",
+      "(D) 行政院及其部會"
+    ],
+    "answer": "D",
+    "explanation": "依憲法第97條第1項，監察院得提出糾正案，移送行政院及其有關部會，促其注意改善。"
+  },
+  {
+    "id": 4,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "下列何者為立法院之職權？",
+    "options": [
+      "(A) 審計權",
+      "(B) 糾正權",
+      "(C) 調查權",
+      "(D) 糾舉權"
+    ],
+    "answer": "C",
+    "explanation": "(A)(B)(D)皆為監察院職權。立法院擁有文件調閱權與調查權（釋字第585號）。"
+  },
+  {
+    "id": 5,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "關於立法院權力之行使，下列敘述何者正確？",
+    "options": [
+      "(A) 立法院不同意緊急命令時，該命令溯及失效",
+      "(B) 立法院同意總統、副總統之罷免案後，即為通過",
+      "(C) 立法院決議通過領土變更案後，應交公民複決",
+      "(D) 立法院僅對於司法院正副院長有人事同意權"
+    ],
+    "answer": "C",
+    "explanation": "(A)立即失效非溯及；(B)須經公民複決；(D)對考試院、監察院正副院長及委員亦有同意權。依憲法增修條文第4條，領土變更案經立法院決議後，應交由公民複決。"
+  },
+  {
+    "id": 6,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "關於總統及行政院院長之憲法上職權，下列敘述何者錯誤？",
+    "options": [
+      "(A) 總統得經行政院會議之決議，發布緊急命令",
+      "(B) 總統得向立法院提出施政方針及施政報告",
+      "(C) 經總統核可，行政院院長得將窒礙難行之法律案移請立法院覆議",
+      "(D) 行政院院長提請總統任命行政院副院長"
+    ],
+    "answer": "B",
+    "explanation": "(B)是行政院院長之職責（憲法第57條）。總統是對國民大會（現為立法院）進行國情報告，而非施政報告。"
+  },
+  {
+    "id": 7,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "下列何者不屬於基本權利限制應遵循之要件？",
+    "options": [
+      "(A) 基於法律規定",
+      "(B) 比例原則",
+      "(C) 得以職權命令限制",
+      "(D) 法律明確性原則"
+    ],
+    "answer": "C",
+    "explanation": "依憲法第23條及法律保留原則，限制人民基本權利必須以「法律」或「法律明確授權之命令」為之，不得僅以職權命令限制。"
+  },
+  {
+    "id": 8,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "下列有關偶發性集會之敘述，何者正確？",
+    "options": [
+      "(A) 基於國家安全與社會秩序之維護，室外集會遊行應經許可，禁止未經申請之偶發性集會尚不違憲",
+      "(B) 室外偶發性集會須事先申請許可，其申請不受6日前申請期間之限制，已足以保障集會自由",
+      "(C) 為兼顧集會自由保障與社會秩序維持，室外偶發性集會應採許可制，不得採報備制，立法者對此並無形成自由",
+      "(D) 立法者得視事件性質，以法律明確規範偶發性集會，改採許可制以外相同能達成目的之其他侵害較小手段"
+    ],
+    "answer": "D",
+    "explanation": "參照釋字第718號，緊急性及偶發性集會遊行，事前申請許可規定違憲。立法者應改採報備制或其他侵害較小之手段。"
+  },
+  {
+    "id": 9,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "依司法院大法官解釋，關於應考試權，下列敘述何者錯誤？",
+    "options": [
+      "(A) 應考試權為廣義之參政權",
+      "(B) 對應考試權之差別待遇，大法官採取寬鬆之審查標準",
+      "(C) 應考試權除保障人民參加考試取得公務人員任用資格之權利外，亦保障人民參加考試取得專門職業及技術人員執業資格之權利",
+      "(D) 應考試權之限制，應符合法律保留原則"
+    ],
+    "answer": "B",
+    "explanation": "參照釋字第618號，對於應考試服公職之限制（如限制大陸地區人民），涉及人民參政權，雖採合理審查，但原則上對平等權之審查並非一律寬鬆，且對於工作權與應考試權之連結，審查標準不宜過寬。"
+  },
+  {
+    "id": 10,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "「票票等值」之要求，最可能與下列何種選舉方法有關？",
+    "options": [
+      "(A) 普通選舉",
+      "(B) 平等選舉",
+      "(C) 直接選舉",
+      "(D) 秘密選舉"
+    ],
+    "answer": "B",
+    "explanation": "平等選舉原則要求「一人一票，票票等值」。"
+  },
+  {
+    "id": 11,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "下列何者非司法院釋字第445號解釋，對集會自由之解釋內容？",
+    "options": [
+      "(A) 以法律限制集會、遊行之權利必須符合明確性原則",
+      "(B) 集會遊行法對於不遵從解散及制止命令之首謀者科以刑責，並非立法自由形成範圍",
+      "(C) 有關時間、地點及方式等限制，屬立法自由形成之範圍",
+      "(D) 集會自由屬於表現自由之範疇"
+    ],
+    "answer": "B",
+    "explanation": "釋字第445號認為，對不遵從解散命令之首謀者科以刑責，屬於立法自由形成範圍，並未違憲。"
+  },
+  {
+    "id": 12,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "依司法院釋字第708號解釋，有關內政部移民署對受驅逐出國之外國人以行政處分暫予收容，下列敘述何者正確？",
+    "options": [
+      "(A) 暫予收容屬剝奪人身自由之一種態樣，無論時間長短，均係嚴重干預人民身體自由，均應經法院審查決定",
+      "(B) 對外國人暫予收容，內政部移民署以行政處分為之即可，無須經由法院審查決定，亦無須賦予即時之司法救濟",
+      "(C) 暫予收容旨在防範外國人脫逃，俾能迅速遣送出國，未經法院審查決定，尚不違反人身自由，但應賦予即時之司法救濟",
+      "(D) 暫予收容期間短暫，非屬人身自由之長期剝奪，無須經由法院審查決定，亦無須賦予暫予收容人即時之司法救濟"
+    ],
+    "answer": "C",
+    "explanation": "釋字第708號指出，暫予收容未經法院審查決定，雖不違憲，但應賦予受收容人「即時之司法救濟」（提審）。"
+  },
+  {
+    "id": 13,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "憲法第152條明定：「人民具有工作能力者，國家應予以適當之工作機會。」下列敘述何者正確？",
+    "options": [
+      "(A) 人民對於其所欲從事工作，得依據上述規定向國家請求提供該職缺",
+      "(B) 國家若未給予適當之工作機會，人民得提起救濟，以確保上述規範之落實",
+      "(C) 係為工作權之憲法基礎，並課予國家積極給付之義務",
+      "(D) 國家廣設就業服務站，依據求職者之能力、興趣、專長，提供就業媒合，應屬上述規範之具體落實"
+    ],
+    "answer": "D",
+    "explanation": "憲法第152條屬基本國策（方針條款），並非賦予人民直接請求國家給予特定工作的主觀公權利，但國家應制定政策落實之（如設就業服務站）。"
+  },
+  {
+    "id": 14,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "依憲法及增修條文規定，下列何者不屬於憲法對文化事務之規定？",
+    "options": [
+      "(A) 國家應保護與歷史、文化、藝術相關之古蹟、古物",
+      "(B) 國家應維護發展原住民族語言及文化",
+      "(C) 私立文化機關於受國家補助時，方須依法律受國家監督",
+      "(D) 教育、科學、文化事務預算應優先編列"
+    ],
+    "answer": "C",
+    "explanation": "憲法第167條規定國家對於私立教育文化事業成績優良者予以補助；第162條規定全國公私立教育文化機關，均依法律受國家之監督（並非受補助時才監督）。"
+  },
+  {
+    "id": 15,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "下列何者尚未經大法官解釋為憲法第22條所保障之權利？",
+    "options": [
+      "(A) 名譽權",
+      "(B) 更改姓名之權利",
+      "(C) 隱私權",
+      "(D) 養寵物之自由"
+    ],
+    "answer": "D",
+    "explanation": "名譽權（釋字509）、姓名權（釋字399）、隱私權（釋字603）皆已確認。養寵物之自由目前尚未被大法官明確列為憲法第22條保障之基本權。"
+  },
+  {
+    "id": 16,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "法學緒論",
+    "question": "為落實聯合國兒童權利公約之內容，而制定之兒童權利公約施行法屬下列何種法源？",
+    "options": [
+      "(A) 條約",
+      "(B) 法律",
+      "(C) 憲法",
+      "(D) 習慣"
+    ],
+    "answer": "B",
+    "explanation": "「施行法」經過立法院三讀通過，總統公布，屬於國內法中的「法律」位階。"
+  },
+  {
+    "id": 17,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "地方制度法",
+    "question": "依地方制度法之規定，關於權限爭議之解決，下列何者錯誤？",
+    "options": [
+      "(A) 中央與直轄市、縣(市)間，權限遇有爭議時，由行政院解決",
+      "(B) 直轄市與縣(市)間，事權發生爭議時，由行政院解決",
+      "(C) 直轄市間，事權發生爭議時，由行政院解決",
+      "(D) 縣(市)間，事權發生爭議時，由中央各該主管機關解決"
+    ],
+    "answer": "A",
+    "explanation": "依地方制度法第77條，中央與直轄市、縣（市）間權限爭議，由「立法院」院會議決之，非行政院解決。"
+  },
+  {
+    "id": 18,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "地方制度法",
+    "question": "臺中市政府為減少碳排放量並推動能源轉型，研擬要求用電量達一定度數以上之用戶裝設再生能源系統，向臺中市議會提案制定法規，本法規應屬下列何者？",
+    "options": [
+      "(A) 職權命令",
+      "(B) 自治條例",
+      "(C) 自治規則",
+      "(D) 委辦規則"
+    ],
+    "answer": "B",
+    "explanation": "經地方立法機關（市議會）通過，並由各該行政機關公布者，為「自治條例」。"
+  },
+  {
+    "id": 19,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "中央法規標準法",
+    "question": "法律定有施行期限，主管機關認為需要延長者，應遵循下列何種程序？",
+    "options": [
+      "(A) 無法延長，僅能重新制訂新法",
+      "(B) 應於期限屆滿一個月前送立法院審議",
+      "(C) 經行政院核定後報請總統公布延長",
+      "(D) 由主管機關自行訂定職權命令延長"
+    ],
+    "answer": "B",
+    "explanation": "中央法規標準法第24條：法律定有施行期限者，期滿當然廢止。但主管機關認為有延長必要者，應於期限屆滿一個月前送立法院審議。"
+  },
+  {
+    "id": 20,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "中央法規標準法",
+    "question": "依據中央法規標準法第21條之規定，下列何者並非法規廢止之事由？",
+    "options": [
+      "(A) 機關裁併，有關法規無保留之必要者",
+      "(B) 法規規定之事項已執行完畢，或因情勢變遷，無繼續施行之必要者",
+      "(C) 法規因有關法規之廢止或修正致失其依據，而無單獨施行之必要者",
+      "(D) 同一事項規定於二以上之法規，無分別存在之必要者"
+    ],
+    "answer": "D",
+    "explanation": "中央法規標準法第21條第4款為「同一事項已定有新法規，並公布或發布施行者」。(D)選項敘述與條文不符，若二法規並存，應適用新法或特別法，非直接廢止事由。"
+  },
+  {
+    "id": 21,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "法學緒論",
+    "question": "有判決參照民法第1條「相類似之案件，應為相同處理」之法理，是採用下列何種法律適用方式？",
+    "options": [
+      "(A) 類推適用",
+      "(B) 文義解釋",
+      "(C) 目的性限縮",
+      "(D) 目的性擴張"
+    ],
+    "answer": "A",
+    "explanation": "「相類似案件，應為相同處理」即為「類推適用」之核心精神。"
+  },
+  {
+    "id": 22,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "行政程序法",
+    "question": "有關行政處分作成前之聽證，下列敘述何者正確？",
+    "options": [
+      "(A) 主持人應經當事人雙方同意，始能終結聽證程序",
+      "(B) 行政機關作成行政處分前，遇有法規明文規定應舉行聽證時，始能舉行聽證",
+      "(C) 行政機關作成經聽證之行政處分時，應依聽證紀錄作成處分",
+      "(D) 不服經聽證作成之行政處分者，其行政救濟程序，免除訴願及其先行程序"
+    ],
+    "answer": "D",
+    "explanation": "依行政程序法第109條，經聽證作成之行政處分，其行政救濟免除訴願及其先行程序，直接提起行政訴訟。"
+  },
+  {
+    "id": 23,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "行政法",
+    "question": "依司法院大法官解釋意旨，有關藥害救濟法之立法，係為使正當使用合法藥物而受害者，獲得及時救濟。下列敘述何者錯誤？",
+    "options": [
+      "(A) 藥害救濟法之制定，實屬憲法社會國原則之體現",
+      "(B) 對於社會政策立法，因涉及國家資源分配，司法應採取嚴格審查",
+      "(C) 藥害救濟法之規定，涉及憲法對於國人健康權保障之實踐",
+      "(D) 針對「常見且可預期」之排除規定，造成病患無法請求救濟，尚無違比例原則"
+    ],
+    "answer": "B",
+    "explanation": "參照釋字第696、702號等意旨，社會政策立法涉及國家資源分配，司法機關原則上採「寬鬆審查」標準，尊重立法形成自由。"
+  },
+  {
+    "id": 24,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "民法",
+    "question": "甲、乙、丙、丁四人為親兄弟。甲是22歲，但受監護宣告；乙是18歲，已結婚；丙是12歲；丁是6歲。依民法之規定，下列敘述何者錯誤？",
+    "options": [
+      "(A) 甲為無行為能力之成年人",
+      "(B) 乙為有行為能力之成年人",
+      "(C) 丙為限制行為能力之未成年人",
+      "(D) 丁為無行為能力人之未成年人"
+    ],
+    "answer": "B",
+    "explanation": "(B)乙雖未滿20歲（修法前民法，現行法18歲即成年），但因已結婚，依當時民法第13條第3項有行為能力。但題目選項B說「成年人」，依當時民法乙仍是「未成年人」（但有行為能力）。現行民法18歲即成年，乙已成年。但本題考點在於當時法律，選項B描述「乙為成年人」在舊法下錯誤。"
+  },
+  {
+    "id": 25,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "民法",
+    "question": "甲出租土地於乙，乙使用期間該土地被丙無權占有，乙可行使下列何種物上請求權？",
+    "options": [
+      "(A) 所有物返還請求權",
+      "(B) 所有權之妨害除去請求權",
+      "(C) 所有權之妨害預防請求權",
+      "(D) 占有物返還請求權"
+    ],
+    "answer": "D",
+    "explanation": "乙是承租人，為直接占有人，非所有權人，故只能行使民法第962條的「占有物」返還請求權，不能行使第767條的「所有物」返還請求權。"
+  },
+  {
+    "id": 26,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "民法",
+    "question": "商人甲未經女明星乙之同意，擅自以乙之肖像作為商業廣告而獲利。下列敘述何者錯誤？",
+    "options": [
+      "(A) 乙得向甲主張除去侵害請求權",
+      "(B) 乙得向甲主張侵害防止請求權",
+      "(C) 乙得依債務不履行之規定請求甲損害賠償",
+      "(D) 乙得依不當得利之規定請求甲獲利返還"
+    ],
+    "answer": "C",
+    "explanation": "甲乙之間無契約關係，故不構成債務不履行。乙應主張侵權行為或不當得利。"
+  },
+  {
+    "id": 27,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "民法",
+    "question": "下列何種民事法制度不是原本法律的規定，而是經由法律續造而產生，甚至其後修法而成為法律的具體規定？",
+    "options": [
+      "(A) 無因性理論",
+      "(B) 融資性租賃",
+      "(C) 最高限額抵押",
+      "(D) 讓與擔保"
+    ],
+    "answer": "A",
+    "explanation": "最高限額抵押原本是習慣法/實務承認，後來增訂進民法物權編；讓與擔保也是。無因性理論是德國法學繼受的理論。"
+  },
+  {
+    "id": 28,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "刑法",
+    "question": "於地檢署服務的書記官張三知道解送至地檢署的犯罪嫌疑人李四涉犯強制性交且拒絕承認，一時氣憤不過，便趁檢察官訊問的空檔，予以痛打一頓。下列敘述何者正確？",
+    "options": [
+      "(A) 張三犯刑法第125條的意圖取供而施強暴脅迫罪",
+      "(B) 張三犯刑法第277條第1項的普通傷害罪，並因第134條加重其刑二分之一",
+      "(C) 張三犯刑法第279條的義憤傷害罪",
+      "(D) 張三犯刑法第126條第1項凌虐人犯罪"
+    ],
+    "answer": "B",
+    "explanation": "張三非有追訴或處罰犯罪職務之公務員（那是檢察官/法官），故不構刑法125；書記官非拘禁人犯之公務員，不構126。他是公務員假借職務上機會犯罪，故犯傷害罪並加重其刑。"
+  },
+  {
+    "id": 29,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "公司法",
+    "question": "某大學之甲學生(下稱甲生)與乙學生(下稱乙生)均自誇其對公司法研究透徹，下列乃該二學生對公司法規定之陳述，何者為錯誤？",
+    "options": [
+      "(A) 甲生：公司非在中央主管機關登記後，不得成立",
+      "(B) 甲生：公司法所稱主管機關：在中央為財政部",
+      "(C) 乙生：股份有限公司，係指二人以上股東或政府、法人股東一人所組織，全部資本分為股份；股東就其所認股份，對公司負其責任之公司",
+      "(D) 乙生：公司法所稱分公司，為受本公司管轄之分支機構"
+    ],
+    "answer": "B",
+    "explanation": "公司法第5條：本法所稱主管機關：在中央為「經濟部」，非財政部。"
+  },
+  {
+    "id": 30,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "勞動基準法",
+    "question": "依勞動基準法規定，雇主調動勞工工作時，除不得違反勞動契約之約定外，下列那一項規定非雇主應遵守之原則？",
+    "options": [
+      "(A) 對勞工之工資及其他勞動條件，未作重大之不利益變更",
+      "(B) 調動後之工作為勞工體能及技術可勝任",
+      "(C) 調動工作地點不論遠近，雇主應予以必要之協助",
+      "(D) 應考量勞工及其家庭之生活利益"
+    ],
+    "answer": "C",
+    "explanation": "勞基法第10-1條第4款：「調動工作地點過遠，雇主應予以必要之協助。」並非「不論遠近」都須協助。"
+  },
+  {
+    "id": 31,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "The earnings for registered nurses remain above average for college-educated women, though they have _______ in recent years.",
+    "options": [
+      "(A) alienated",
+      "(B) designated",
+      "(C) illuminated",
+      "(D) stagnated"
+    ],
+    "answer": "D",
+    "explanation": "stagnated (停滯)。句意：儘管近年來收入停滯不前，但註冊護士的收入仍高於受過大學教育女性的平均水平。"
+  },
+  {
+    "id": 32,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "The prosecutor's allegation against the suspect is invalid because it is largely based on _______ evidence.",
+    "options": [
+      "(A) circular",
+      "(B) circumstantial",
+      "(C) authentic",
+      "(D) environmental"
+    ],
+    "answer": "B",
+    "explanation": "circumstantial evidence (間接證據/情況證據)。"
+  },
+  {
+    "id": 33,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "With a firm light tread, his heavy boots _______ a pleasant smell of tar and fresh winter air.",
+    "options": [
+      "(A) exhumed",
+      "(B) emitted",
+      "(C) exhausted",
+      "(D) embossed"
+    ],
+    "answer": "B",
+    "explanation": "emitted (散發)。"
+  },
+  {
+    "id": 34,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "Mr. Johnson usually _______ his dirty clothes for a couple of days before sending them to the laundry-shop.",
+    "options": [
+      "(A) acclaims",
+      "(B) acclimates",
+      "(C) accommodates",
+      "(D) accumulates"
+    ],
+    "answer": "D",
+    "explanation": "accumulates (累積、堆積)。"
+  },
+  {
+    "id": 35,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "The little boy _______ his mom's legs and cried out loud as she tried to leave for work.",
+    "options": [
+      "(A) dug under",
+      "(B) clung to",
+      "(C) yielded to",
+      "(D) grew under"
+    ],
+    "answer": "B",
+    "explanation": "clung to (緊抓、依附)。cling 的過去式。"
+  },
+  {
+    "id": 36,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "The Spanish embrace is a _______ of greeting, often accompanied by verbal behavior.",
+    "options": [
+      "(A) gesture",
+      "(B) venture",
+      "(C) creature",
+      "(D) texture"
+    ],
+    "answer": "A",
+    "explanation": "gesture (手勢、姿勢)。"
+  },
+  {
+    "id": 37,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "When it continues raining heavily over time, plenty of water will _______ the soil.",
+    "options": [
+      "(A) inhabitate",
+      "(B) infiltrate",
+      "(C) interpolate",
+      "(D) ingratiate"
+    ],
+    "answer": "B",
+    "explanation": "infiltrate (滲透)。"
+  },
+  {
+    "id": 38,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "Cardboard has recyclable and biodegradable properties, and it is also an _______ material that absorbs sound in a noisy environment.",
+    "options": [
+      "(A) inclusive",
+      "(B) isolated",
+      "(C) immediate",
+      "(D) insulating"
+    ],
+    "answer": "D",
+    "explanation": "insulating (絕緣的、隔音的)。"
+  },
+  {
+    "id": 39,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "Mutation, migration, genetic drift and natural selection are the basic _______ of evolutionary change.",
+    "options": [
+      "(A) machines",
+      "(B) machineries",
+      "(C) mechanics",
+      "(D) mechanisms"
+    ],
+    "answer": "D",
+    "explanation": "mechanisms (機制)。"
+  },
+  {
+    "id": 40,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "A recovered copy of Shakespeare's First Folio, one of the most _______ books in all of English literature, is headed to London's Globe Theater.",
+    "options": [
+      "(A) coveted",
+      "(B) diverted",
+      "(C) entitled",
+      "(D) dedicated"
+    ],
+    "answer": "A",
+    "explanation": "coveted (夢寐以求的、垂涎的)。"
+  },
+  {
+    "id": 41,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "Rich with meaning and history, the markings _______ a style of facial tattoo once found across rural communities...",
+    "options": [
+      "(A) reduced",
+      "(B) repeated",
+      "(C) reproduced",
+      "(D) represented"
+    ],
+    "answer": "D",
+    "explanation": "represented (代表)。文意：這些印記代表了一種曾經普遍的臉部刺青風格。"
+  },
+  {
+    "id": 42,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "...she discovered it was a tradition few young women seemed _______ on continuing.",
+    "options": [
+      "(A) keen",
+      "(B) intent",
+      "(C) dependent",
+      "(D) neutralized"
+    ],
+    "answer": "B",
+    "explanation": "intent on (堅決要、熱衷於)。seemed intent on continuing (似乎有意繼續)。(A) keen 常用 keen to V 或 keen on Ving，語意也通，但 intent 強調意圖。"
+  },
+  {
+    "id": 43,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "Intrigued... resolved to document what remained... and explore why its popularity had _______.",
+    "options": [
+      "(A) waned",
+      "(B) increased",
+      "(C) boosted",
+      "(D) regulations"
+    ],
+    "answer": "A",
+    "explanation": "waned (衰退、減弱)。popularuty had waned (受歡迎程度下降)。"
+  },
+  {
+    "id": 44,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "Nearly all of the women she encountered loved their tattoos and considered them to be _______ of beauty...",
+    "options": [
+      "(A) markers",
+      "(B) thinkers",
+      "(C) restrictions",
+      "(D) regulations"
+    ],
+    "answer": "A",
+    "explanation": "markers (標誌)。markers of beauty (美麗的標誌)。"
+  },
+  {
+    "id": 45,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "While some tattoos appeared to be astrological motifs, others _______ symbols of protection from superstitions.",
+    "options": [
+      "(A) posed as",
+      "(B) served as",
+      "(C) reversed into",
+      "(D) transformed into"
+    ],
+    "answer": "B",
+    "explanation": "served as (充當、用作)。served as symbols of protection (作為保護的象徵)。"
+  },
+  {
+    "id": 46,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "What is the passage mainly about?",
+    "options": [
+      "(A) New evidence of how the Titanic sank.",
+      "(B) The futility of human ambition in history.",
+      "(C) The perceptions of the Titanic at its time.",
+      "(D) The faulty design that sank the Titanic."
+    ],
+    "answer": "C",
+    "explanation": "主旨題。文章討論了鐵達尼號沉沒前人們對它「不沉」的看法與實際情況。"
+  },
+  {
+    "id": 47,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "What commonly-held false idea has been challenged?",
+    "options": [
+      "(A) The sinking of the ship was caused by a mysterious force.",
+      "(B) Many people at that time claimed that the ship was unsinkable.",
+      "(C) The gigantic ship sank as a result of hitting an iceberg.",
+      "(D) The considerable weight of the ship was the cause of its sinking."
+    ],
+    "answer": "B",
+    "explanation": "文章提到許多流言終結者聲稱，在沉船前其實很少人真的稱它為「不沉之船」。"
+  },
+  {
+    "id": 48,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "According to the passage, what might make some people believe in the ship's unsinkability?",
+    "options": [
+      "(A) Its safety design was the newest and most advanced at its time.",
+      "(B) There were reports about how the ship had endured many adverse situations.",
+      "(C) The ship designer and the company were making such a claim.",
+      "(D) Its sheer size and beauty easily gave people such an impression."
+    ],
+    "answer": "A",
+    "explanation": "文中提到人們相信它的安全設計是 state-of-the-art (最先進的)。"
+  },
+  {
+    "id": 49,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "What was advertised as a safety feature that could prevent the ship from going down after a collision?",
+    "options": [
+      "(A) The ship's body was built by using the most advanced materials.",
+      "(B) Some sections in the ship could be blocked off quickly if there were holes.",
+      "(C) Several guest rooms were controlled by a single switch to make them unbreakable.",
+      "(D) There were spaces specially designed to keep floating in case of emergency."
+    ],
+    "answer": "B",
+    "explanation": "文中提到船殼內有 16 個隔間(compartments)，門可以用開關關閉(closed off)。"
+  },
+  {
+    "id": 50,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "Why does the author consider Titanic's tragic sinking an irony in the conclusion of the passage?",
+    "options": [
+      "(A) The advertisements at that time boasted the unsinkability of the Titanic.",
+      "(B) The ship's unsinkability was not really the center of attention before the accident.",
+      "(C) The rich passengers on the ship considered safety the top priority.",
+      "(D) The ship was believed to be sinkable only by some people at its time."
+    ],
+    "answer": "B",
+    "explanation": "文章結論提到，雖然它被吹捧為不沉，但其實是悲劇發生後，這個稱號才真正被放大，且沉沒前人們關注的是豪華而非安全，這就是諷刺之處。"
+  },
+  {
+    "id": 1,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "就我國司法制度應否引進國民參審制或陪審制，關於其立法權及執行權之歸屬，下列敘述何者正確？",
+    "options": [
+      "(A) 由中央立法，交由地方執行之",
+      "(B) 由中央立法並執行之",
+      "(C) 由地方立法並執行之",
+      "(D) 由中央立法並執行之，或交由地方執行之"
+    ],
+    "answer": "B",
+    "explanation": "依憲法第107條規定，司法制度屬於中央立法並執行之事項。"
+  },
+  {
+    "id": 2,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "依憲法規定，法律牴觸憲法發生疑義，應如何處理？",
+    "options": [
+      "(A) 由立法院解釋",
+      "(B) 由法務部解釋",
+      "(C) 由司法院解釋",
+      "(D) 由總統解釋"
+    ],
+    "answer": "C",
+    "explanation": "依憲法第78條、第171條第2項規定，法律與憲法有無牴觸發生疑義時，由司法院解釋之。"
+  },
+  {
+    "id": 3,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "依憲法本文之規定，監察院得向何機關提出糾正案？",
+    "options": [
+      "(A) 立法院",
+      "(B) 司法院",
+      "(C) 考試院及其部會",
+      "(D) 行政院及其部會"
+    ],
+    "answer": "D",
+    "explanation": "依憲法第97條第1項，監察院得提出糾正案，移送行政院及其有關部會，促其注意改善。"
+  },
+  {
+    "id": 4,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "下列何者為立法院之職權？",
+    "options": [
+      "(A) 審計權",
+      "(B) 糾正權",
+      "(C) 調查權",
+      "(D) 糾舉權"
+    ],
+    "answer": "C",
+    "explanation": "(A)(B)(D)皆為監察院職權。立法院擁有文件調閱權與調查權（釋字第585號）。"
+  },
+  {
+    "id": 5,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "關於立法院權力之行使，下列敘述何者正確？",
+    "options": [
+      "(A) 立法院不同意緊急命令時，該命令溯及失效",
+      "(B) 立法院同意總統、副總統之罷免案後，即為通過",
+      "(C) 立法院決議通過領土變更案後，應交公民複決",
+      "(D) 立法院僅對於司法院正副院長有人事同意權"
+    ],
+    "answer": "C",
+    "explanation": "(A)立即失效非溯及；(B)須經公民複決；(D)對考試院、監察院正副院長及委員亦有同意權。依憲法增修條文第4條，領土變更案經立法院決議後，應交由公民複決。"
+  },
+  {
+    "id": 6,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "關於總統及行政院院長之憲法上職權，下列敘述何者錯誤？",
+    "options": [
+      "(A) 總統得經行政院會議之決議，發布緊急命令",
+      "(B) 總統得向立法院提出施政方針及施政報告",
+      "(C) 經總統核可，行政院院長得將窒礙難行之法律案移請立法院覆議",
+      "(D) 行政院院長提請總統任命行政院副院長"
+    ],
+    "answer": "B",
+    "explanation": "(B)是行政院院長之職責（憲法第57條）。總統是對國民大會（現為立法院）進行國情報告，而非施政報告。"
+  },
+  {
+    "id": 7,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "下列何者不屬於基本權利限制應遵循之要件？",
+    "options": [
+      "(A) 基於法律規定",
+      "(B) 比例原則",
+      "(C) 得以職權命令限制",
+      "(D) 法律明確性原則"
+    ],
+    "answer": "C",
+    "explanation": "依憲法第23條及法律保留原則，限制人民基本權利必須以「法律」或「法律明確授權之命令」為之，不得僅以職權命令限制。"
+  },
+  {
+    "id": 8,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "下列有關偶發性集會之敘述，何者正確？",
+    "options": [
+      "(A) 基於國家安全與社會秩序之維護，室外集會遊行應經許可，禁止未經申請之偶發性集會尚不違憲",
+      "(B) 室外偶發性集會須事先申請許可，其申請不受6日前申請期間之限制，已足以保障集會自由",
+      "(C) 為兼顧集會自由保障與社會秩序維持，室外偶發性集會應採許可制，不得採報備制，立法者對此並無形成自由",
+      "(D) 立法者得視事件性質，以法律明確規範偶發性集會，改採許可制以外相同能達成目的之其他侵害較小手段"
+    ],
+    "answer": "D",
+    "explanation": "參照釋字第718號，緊急性及偶發性集會遊行，事前申請許可規定違憲。立法者應改採報備制或其他侵害較小之手段。"
+  },
+  {
+    "id": 9,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "依司法院大法官解釋，關於應考試權，下列敘述何者錯誤？",
+    "options": [
+      "(A) 應考試權為廣義之參政權",
+      "(B) 對應考試權之差別待遇，大法官採取寬鬆之審查標準",
+      "(C) 應考試權除保障人民參加考試取得公務人員任用資格之權利外，亦保障人民參加考試取得專門職業及技術人員執業資格之權利",
+      "(D) 應考試權之限制，應符合法律保留原則"
+    ],
+    "answer": "B",
+    "explanation": "參照釋字第618號，對於應考試服公職之限制（如限制大陸地區人民），涉及人民參政權，雖採合理審查，但原則上對平等權之審查並非一律寬鬆，且對於工作權與應考試權之連結，審查標準不宜過寬。"
+  },
+  {
+    "id": 10,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "「票票等值」之要求，最可能與下列何種選舉方法有關？",
+    "options": [
+      "(A) 普通選舉",
+      "(B) 平等選舉",
+      "(C) 直接選舉",
+      "(D) 秘密選舉"
+    ],
+    "answer": "B",
+    "explanation": "平等選舉原則要求「一人一票，票票等值」。"
+  },
+  {
+    "id": 11,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "下列何者非司法院釋字第445號解釋，對集會自由之解釋內容？",
+    "options": [
+      "(A) 以法律限制集會、遊行之權利必須符合明確性原則",
+      "(B) 集會遊行法對於不遵從解散及制止命令之首謀者科以刑責，並非立法自由形成範圍",
+      "(C) 有關時間、地點及方式等限制，屬立法自由形成之範圍",
+      "(D) 集會自由屬於表現自由之範疇"
+    ],
+    "answer": "B",
+    "explanation": "釋字第445號認為，對不遵從解散命令之首謀者科以刑責，屬於立法自由形成範圍，並未違憲。"
+  },
+  {
+    "id": 12,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "依司法院釋字第708號解釋，有關內政部移民署對受驅逐出國之外國人以行政處分暫予收容，下列敘述何者正確？",
+    "options": [
+      "(A) 暫予收容屬剝奪人身自由之一種態樣，無論時間長短，均係嚴重干預人民身體自由，均應經法院審查決定",
+      "(B) 對外國人暫予收容，內政部移民署以行政處分為之即可，無須經由法院審查決定，亦無須賦予即時之司法救濟",
+      "(C) 暫予收容旨在防範外國人脫逃，俾能迅速遣送出國，未經法院審查決定，尚不違反人身自由，但應賦予即時之司法救濟",
+      "(D) 暫予收容期間短暫，非屬人身自由之長期剝奪，無須經由法院審查決定，亦無須賦予暫予收容人即時之司法救濟"
+    ],
+    "answer": "C",
+    "explanation": "釋字第708號指出，暫予收容未經法院審查決定，雖不違憲，但應賦予受收容人「即時之司法救濟」（提審）。"
+  },
+  {
+    "id": 13,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "憲法第152條明定：「人民具有工作能力者，國家應予以適當之工作機會。」下列敘述何者正確？",
+    "options": [
+      "(A) 人民對於其所欲從事工作，得依據上述規定向國家請求提供該職缺",
+      "(B) 國家若未給予適當之工作機會，人民得提起救濟，以確保上述規範之落實",
+      "(C) 係為工作權之憲法基礎，並課予國家積極給付之義務",
+      "(D) 國家廣設就業服務站，依據求職者之能力、興趣、專長，提供就業媒合，應屬上述規範之具體落實"
+    ],
+    "answer": "D",
+    "explanation": "憲法第152條屬基本國策（方針條款），並非賦予人民直接請求國家給予特定工作的主觀公權利，但國家應制定政策落實之（如設就業服務站）。"
+  },
+  {
+    "id": 14,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "依憲法及增修條文規定，下列何者不屬於憲法對文化事務之規定？",
+    "options": [
+      "(A) 國家應保護與歷史、文化、藝術相關之古蹟、古物",
+      "(B) 國家應維護發展原住民族語言及文化",
+      "(C) 私立文化機關於受國家補助時，方須依法律受國家監督",
+      "(D) 教育、科學、文化事務預算應優先編列"
+    ],
+    "answer": "C",
+    "explanation": "憲法第167條規定國家對於私立教育文化事業成績優良者予以補助；第162條規定全國公私立教育文化機關，均依法律受國家之監督（並非受補助時才監督）。"
+  },
+  {
+    "id": 15,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "憲法",
+    "question": "下列何者尚未經大法官解釋為憲法第22條所保障之權利？",
+    "options": [
+      "(A) 名譽權",
+      "(B) 更改姓名之權利",
+      "(C) 隱私權",
+      "(D) 養寵物之自由"
+    ],
+    "answer": "D",
+    "explanation": "名譽權（釋字509）、姓名權（釋字399）、隱私權（釋字603）皆已確認。養寵物之自由目前尚未被大法官明確列為憲法第22條保障之基本權。"
+  },
+  {
+    "id": 16,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "法學緒論",
+    "question": "為落實聯合國兒童權利公約之內容，而制定之兒童權利公約施行法屬下列何種法源？",
+    "options": [
+      "(A) 條約",
+      "(B) 法律",
+      "(C) 憲法",
+      "(D) 習慣"
+    ],
+    "answer": "B",
+    "explanation": "「施行法」經過立法院三讀通過，總統公布，屬於國內法中的「法律」位階。"
+  },
+  {
+    "id": 17,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "地方制度法",
+    "question": "依地方制度法之規定，關於權限爭議之解決，下列何者錯誤？",
+    "options": [
+      "(A) 中央與直轄市、縣(市)間，權限遇有爭議時，由行政院解決",
+      "(B) 直轄市與縣(市)間，事權發生爭議時，由行政院解決",
+      "(C) 直轄市間，事權發生爭議時，由行政院解決",
+      "(D) 縣(市)間，事權發生爭議時，由中央各該主管機關解決"
+    ],
+    "answer": "A",
+    "explanation": "依地方制度法第77條，中央與直轄市、縣（市）間權限爭議，由「立法院」院會議決之，非行政院解決。"
+  },
+  {
+    "id": 18,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "地方制度法",
+    "question": "臺中市政府為減少碳排放量並推動能源轉型，研擬要求用電量達一定度數以上之用戶裝設再生能源系統，向臺中市議會提案制定法規，本法規應屬下列何者？",
+    "options": [
+      "(A) 職權命令",
+      "(B) 自治條例",
+      "(C) 自治規則",
+      "(D) 委辦規則"
+    ],
+    "answer": "B",
+    "explanation": "經地方立法機關（市議會）通過，並由各該行政機關公布者，為「自治條例」。"
+  },
+  {
+    "id": 19,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "中央法規標準法",
+    "question": "法律定有施行期限，主管機關認為需要延長者，應遵循下列何種程序？",
+    "options": [
+      "(A) 無法延長，僅能重新制訂新法",
+      "(B) 應於期限屆滿一個月前送立法院審議",
+      "(C) 經行政院核定後報請總統公布延長",
+      "(D) 由主管機關自行訂定職權命令延長"
+    ],
+    "answer": "B",
+    "explanation": "中央法規標準法第24條：法律定有施行期限者，期滿當然廢止。但主管機關認為有延長必要者，應於期限屆滿一個月前送立法院審議。"
+  },
+  {
+    "id": 20,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "中央法規標準法",
+    "question": "依據中央法規標準法第21條之規定，下列何者並非法規廢止之事由？",
+    "options": [
+      "(A) 機關裁併，有關法規無保留之必要者",
+      "(B) 法規規定之事項已執行完畢，或因情勢變遷，無繼續施行之必要者",
+      "(C) 法規因有關法規之廢止或修正致失其依據，而無單獨施行之必要者",
+      "(D) 同一事項規定於二以上之法規，無分別存在之必要者"
+    ],
+    "answer": "D",
+    "explanation": "中央法規標準法第21條第4款為「同一事項已定有新法規，並公布或發布施行者」。(D)選項敘述與條文不符，若二法規並存，應適用新法或特別法，非直接廢止事由。"
+  },
+  {
+    "id": 21,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "法學緒論",
+    "question": "有判決參照民法第1條「相類似之案件，應為相同處理」之法理，是採用下列何種法律適用方式？",
+    "options": [
+      "(A) 類推適用",
+      "(B) 文義解釋",
+      "(C) 目的性限縮",
+      "(D) 目的性擴張"
+    ],
+    "answer": "A",
+    "explanation": "「相類似案件，應為相同處理」即為「類推適用」之核心精神。"
+  },
+  {
+    "id": 22,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "行政程序法",
+    "question": "有關行政處分作成前之聽證，下列敘述何者正確？",
+    "options": [
+      "(A) 主持人應經當事人雙方同意，始能終結聽證程序",
+      "(B) 行政機關作成行政處分前，遇有法規明文規定應舉行聽證時，始能舉行聽證",
+      "(C) 行政機關作成經聽證之行政處分時，應依聽證紀錄作成處分",
+      "(D) 不服經聽證作成之行政處分者，其行政救濟程序，免除訴願及其先行程序"
+    ],
+    "answer": "D",
+    "explanation": "依行政程序法第109條，經聽證作成之行政處分，其行政救濟免除訴願及其先行程序，直接提起行政訴訟。"
+  },
+  {
+    "id": 23,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "行政法",
+    "question": "依司法院大法官解釋意旨，有關藥害救濟法之立法，係為使正當使用合法藥物而受害者，獲得及時救濟。下列敘述何者錯誤？",
+    "options": [
+      "(A) 藥害救濟法之制定，實屬憲法社會國原則之體現",
+      "(B) 對於社會政策立法，因涉及國家資源分配，司法應採取嚴格審查",
+      "(C) 藥害救濟法之規定，涉及憲法對於國人健康權保障之實踐",
+      "(D) 針對「常見且可預期」之排除規定，造成病患無法請求救濟，尚無違比例原則"
+    ],
+    "answer": "B",
+    "explanation": "參照釋字第696、702號等意旨，社會政策立法涉及國家資源分配，司法機關原則上採「寬鬆審查」標準，尊重立法形成自由。"
+  },
+  {
+    "id": 24,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "民法",
+    "question": "甲、乙、丙、丁四人為親兄弟。甲是22歲，但受監護宣告；乙是18歲，已結婚；丙是12歲；丁是6歲。依民法之規定，下列敘述何者錯誤？",
+    "options": [
+      "(A) 甲為無行為能力之成年人",
+      "(B) 乙為有行為能力之成年人",
+      "(C) 丙為限制行為能力之未成年人",
+      "(D) 丁為無行為能力人之未成年人"
+    ],
+    "answer": "B",
+    "explanation": "(B)乙雖未滿20歲（修法前民法，現行法18歲即成年），但因已結婚，依當時民法第13條第3項有行為能力。但題目選項B說「成年人」，依當時民法乙仍是「未成年人」（但有行為能力）。現行民法18歲即成年，乙已成年。但本題考點在於當時法律，選項B描述「乙為成年人」在舊法下錯誤。"
+  },
+  {
+    "id": 25,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "民法",
+    "question": "甲出租土地於乙，乙使用期間該土地被丙無權占有，乙可行使下列何種物上請求權？",
+    "options": [
+      "(A) 所有物返還請求權",
+      "(B) 所有權之妨害除去請求權",
+      "(C) 所有權之妨害預防請求權",
+      "(D) 占有物返還請求權"
+    ],
+    "answer": "D",
+    "explanation": "乙是承租人，為直接占有人，非所有權人，故只能行使民法第962條的「占有物」返還請求權，不能行使第767條的「所有物」返還請求權。"
+  },
+  {
+    "id": 26,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "民法",
+    "question": "商人甲未經女明星乙之同意，擅自以乙之肖像作為商業廣告而獲利。下列敘述何者錯誤？",
+    "options": [
+      "(A) 乙得向甲主張除去侵害請求權",
+      "(B) 乙得向甲主張侵害防止請求權",
+      "(C) 乙得依債務不履行之規定請求甲損害賠償",
+      "(D) 乙得依不當得利之規定請求甲獲利返還"
+    ],
+    "answer": "C",
+    "explanation": "甲乙之間無契約關係，故不構成債務不履行。乙應主張侵權行為或不當得利。"
+  },
+  {
+    "id": 27,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "民法",
+    "question": "下列何種民事法制度不是原本法律的規定，而是經由法律續造而產生，甚至其後修法而成為法律的具體規定？",
+    "options": [
+      "(A) 無因性理論",
+      "(B) 融資性租賃",
+      "(C) 最高限額抵押",
+      "(D) 讓與擔保"
+    ],
+    "answer": "A",
+    "explanation": "最高限額抵押原本是習慣法/實務承認，後來增訂進民法物權編；讓與擔保也是。無因性理論是德國法學繼受的理論。"
+  },
+  {
+    "id": 28,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "刑法",
+    "question": "於地檢署服務的書記官張三知道解送至地檢署的犯罪嫌疑人李四涉犯強制性交且拒絕承認，一時氣憤不過，便趁檢察官訊問的空檔，予以痛打一頓。下列敘述何者正確？",
+    "options": [
+      "(A) 張三犯刑法第125條的意圖取供而施強暴脅迫罪",
+      "(B) 張三犯刑法第277條第1項的普通傷害罪，並因第134條加重其刑二分之一",
+      "(C) 張三犯刑法第279條的義憤傷害罪",
+      "(D) 張三犯刑法第126條第1項凌虐人犯罪"
+    ],
+    "answer": "B",
+    "explanation": "張三非有追訴或處罰犯罪職務之公務員（那是檢察官/法官），故不構刑法125；書記官非拘禁人犯之公務員，不構126。他是公務員假借職務上機會犯罪，故犯傷害罪並加重其刑。"
+  },
+  {
+    "id": 29,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "公司法",
+    "question": "某大學之甲學生(下稱甲生)與乙學生(下稱乙生)均自誇其對公司法研究透徹，下列乃該二學生對公司法規定之陳述，何者為錯誤？",
+    "options": [
+      "(A) 甲生：公司非在中央主管機關登記後，不得成立",
+      "(B) 甲生：公司法所稱主管機關：在中央為財政部",
+      "(C) 乙生：股份有限公司，係指二人以上股東或政府、法人股東一人所組織，全部資本分為股份；股東就其所認股份，對公司負其責任之公司",
+      "(D) 乙生：公司法所稱分公司，為受本公司管轄之分支機構"
+    ],
+    "answer": "B",
+    "explanation": "公司法第5條：本法所稱主管機關：在中央為「經濟部」，非財政部。"
+  },
+  {
+    "id": 30,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "勞動基準法",
+    "question": "依勞動基準法規定，雇主調動勞工工作時，除不得違反勞動契約之約定外，下列那一項規定非雇主應遵守之原則？",
+    "options": [
+      "(A) 對勞工之工資及其他勞動條件，未作重大之不利益變更",
+      "(B) 調動後之工作為勞工體能及技術可勝任",
+      "(C) 調動工作地點不論遠近，雇主應予以必要之協助",
+      "(D) 應考量勞工及其家庭之生活利益"
+    ],
+    "answer": "C",
+    "explanation": "勞基法第10-1條第4款：「調動工作地點過遠，雇主應予以必要之協助。」並非「不論遠近」都須協助。"
+  },
+  {
+    "id": 31,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "The earnings for registered nurses remain above average for college-educated women, though they have _______ in recent years.",
+    "options": [
+      "(A) alienated",
+      "(B) designated",
+      "(C) illuminated",
+      "(D) stagnated"
+    ],
+    "answer": "D",
+    "explanation": "stagnated (停滯)。句意：儘管近年來收入停滯不前，但註冊護士的收入仍高於受過大學教育女性的平均水平。"
+  },
+  {
+    "id": 32,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "The prosecutor's allegation against the suspect is invalid because it is largely based on _______ evidence.",
+    "options": [
+      "(A) circular",
+      "(B) circumstantial",
+      "(C) authentic",
+      "(D) environmental"
+    ],
+    "answer": "B",
+    "explanation": "circumstantial evidence (間接證據/情況證據)。"
+  },
+  {
+    "id": 33,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "With a firm light tread, his heavy boots _______ a pleasant smell of tar and fresh winter air.",
+    "options": [
+      "(A) exhumed",
+      "(B) emitted",
+      "(C) exhausted",
+      "(D) embossed"
+    ],
+    "answer": "B",
+    "explanation": "emitted (散發)。"
+  },
+  {
+    "id": 34,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "Mr. Johnson usually _______ his dirty clothes for a couple of days before sending them to the laundry-shop.",
+    "options": [
+      "(A) acclaims",
+      "(B) acclimates",
+      "(C) accommodates",
+      "(D) accumulates"
+    ],
+    "answer": "D",
+    "explanation": "accumulates (累積、堆積)。"
+  },
+  {
+    "id": 35,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "The little boy _______ his mom's legs and cried out loud as she tried to leave for work.",
+    "options": [
+      "(A) dug under",
+      "(B) clung to",
+      "(C) yielded to",
+      "(D) grew under"
+    ],
+    "answer": "B",
+    "explanation": "clung to (緊抓、依附)。cling 的過去式。"
+  },
+  {
+    "id": 36,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "The Spanish embrace is a _______ of greeting, often accompanied by verbal behavior.",
+    "options": [
+      "(A) gesture",
+      "(B) venture",
+      "(C) creature",
+      "(D) texture"
+    ],
+    "answer": "A",
+    "explanation": "gesture (手勢、姿勢)。"
+  },
+  {
+    "id": 37,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "When it continues raining heavily over time, plenty of water will _______ the soil.",
+    "options": [
+      "(A) inhabitate",
+      "(B) infiltrate",
+      "(C) interpolate",
+      "(D) ingratiate"
+    ],
+    "answer": "B",
+    "explanation": "infiltrate (滲透)。"
+  },
+  {
+    "id": 38,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "Cardboard has recyclable and biodegradable properties, and it is also an _______ material that absorbs sound in a noisy environment.",
+    "options": [
+      "(A) inclusive",
+      "(B) isolated",
+      "(C) immediate",
+      "(D) insulating"
+    ],
+    "answer": "D",
+    "explanation": "insulating (絕緣的、隔音的)。"
+  },
+  {
+    "id": 39,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "Mutation, migration, genetic drift and natural selection are the basic _______ of evolutionary change.",
+    "options": [
+      "(A) machines",
+      "(B) machineries",
+      "(C) mechanics",
+      "(D) mechanisms"
+    ],
+    "answer": "D",
+    "explanation": "mechanisms (機制)。"
+  },
+  {
+    "id": 40,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "A recovered copy of Shakespeare's First Folio, one of the most _______ books in all of English literature, is headed to London's Globe Theater.",
+    "options": [
+      "(A) coveted",
+      "(B) diverted",
+      "(C) entitled",
+      "(D) dedicated"
+    ],
+    "answer": "A",
+    "explanation": "coveted (夢寐以求的、垂涎的)。"
+  },
+  {
+    "id": 41,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "Rich with meaning and history, the markings _______ a style of facial tattoo once found across rural communities...",
+    "options": [
+      "(A) reduced",
+      "(B) repeated",
+      "(C) reproduced",
+      "(D) represented"
+    ],
+    "answer": "D",
+    "explanation": "represented (代表)。文意：這些印記代表了一種曾經普遍的臉部刺青風格。"
+  },
+  {
+    "id": 42,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "...she discovered it was a tradition few young women seemed _______ on continuing.",
+    "options": [
+      "(A) keen",
+      "(B) intent",
+      "(C) dependent",
+      "(D) neutralized"
+    ],
+    "answer": "B",
+    "explanation": "intent on (堅決要、熱衷於)。seemed intent on continuing (似乎有意繼續)。(A) keen 常用 keen to V 或 keen on Ving，語意也通，但 intent 強調意圖。"
+  },
+  {
+    "id": 43,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "Intrigued... resolved to document what remained... and explore why its popularity had _______.",
+    "options": [
+      "(A) waned",
+      "(B) increased",
+      "(C) boosted",
+      "(D) regulations"
+    ],
+    "answer": "A",
+    "explanation": "waned (衰退、減弱)。popularuty had waned (受歡迎程度下降)。"
+  },
+  {
+    "id": 44,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "Nearly all of the women she encountered loved their tattoos and considered them to be _______ of beauty...",
+    "options": [
+      "(A) markers",
+      "(B) thinkers",
+      "(C) restrictions",
+      "(D) regulations"
+    ],
+    "answer": "A",
+    "explanation": "markers (標誌)。markers of beauty (美麗的標誌)。"
+  },
+  {
+    "id": 45,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "While some tattoos appeared to be astrological motifs, others _______ symbols of protection from superstitions.",
+    "options": [
+      "(A) posed as",
+      "(B) served as",
+      "(C) reversed into",
+      "(D) transformed into"
+    ],
+    "answer": "B",
+    "explanation": "served as (充當、用作)。served as symbols of protection (作為保護的象徵)。"
+  },
+  {
+    "id": 46,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "What is the passage mainly about?",
+    "options": [
+      "(A) New evidence of how the Titanic sank.",
+      "(B) The futility of human ambition in history.",
+      "(C) The perceptions of the Titanic at its time.",
+      "(D) The faulty design that sank the Titanic."
+    ],
+    "answer": "C",
+    "explanation": "主旨題。文章討論了鐵達尼號沉沒前人們對它「不沉」的看法與實際情況。"
+  },
+  {
+    "id": 47,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "What commonly-held false idea has been challenged?",
+    "options": [
+      "(A) The sinking of the ship was caused by a mysterious force.",
+      "(B) Many people at that time claimed that the ship was unsinkable.",
+      "(C) The gigantic ship sank as a result of hitting an iceberg.",
+      "(D) The considerable weight of the ship was the cause of its sinking."
+    ],
+    "answer": "B",
+    "explanation": "文章提到許多流言終結者聲稱，在沉船前其實很少人真的稱它為「不沉之船」。"
+  },
+  {
+    "id": 48,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "According to the passage, what might make some people believe in the ship's unsinkability?",
+    "options": [
+      "(A) Its safety design was the newest and most advanced at its time.",
+      "(B) There were reports about how the ship had endured many adverse situations.",
+      "(C) The ship designer and the company were making such a claim.",
+      "(D) Its sheer size and beauty easily gave people such an impression."
+    ],
+    "answer": "A",
+    "explanation": "文中提到人們相信它的安全設計是 state-of-the-art (最先進的)。"
+  },
+  {
+    "id": 49,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "What was advertised as a safety feature that could prevent the ship from going down after a collision?",
+    "options": [
+      "(A) The ship's body was built by using the most advanced materials.",
+      "(B) Some sections in the ship could be blocked off quickly if there were holes.",
+      "(C) Several guest rooms were controlled by a single switch to make them unbreakable.",
+      "(D) There were spaces specially designed to keep floating in case of emergency."
+    ],
+    "answer": "B",
+    "explanation": "文中提到船殼內有 16 個隔間(compartments)，門可以用開關關閉(closed off)。"
+  },
+  {
+    "id": 50,
+    "subject": "法學知識與英文",
+    "year": 109,
+    "category": "英文",
+    "question": "Why does the author consider Titanic's tragic sinking an irony in the conclusion of the passage?",
+    "options": [
+      "(A) The advertisements at that time boasted the unsinkability of the Titanic.",
+      "(B) The ship's unsinkability was not really the center of attention before the accident.",
+      "(C) The rich passengers on the ship considered safety the top priority.",
+      "(D) The ship was believed to be sinkable only by some people at its time."
+    ],
+    "answer": "B",
+    "explanation": "文章結論提到，雖然它被吹捧為不沉，但其實是悲劇發生後，這個稱號才真正被放大，且沉沒前人們關注的是豪華而非安全，這就是諷刺之處。"
+  },
+  {
+    "id": 1,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "憲法",
+    "question": "依司法院釋字第499號解釋，下列何者非屬憲法中具有本質重要性而為規範秩序賴以存立基礎之基本原則或規定？",
+    "options": [
+      "(A) 民主共和國原則",
+      "(B) 第二章保障人民權利之規定",
+      "(C) 五權分治，平等相維之體制",
+      "(D) 國民主權原則"
+    ],
+    "answer": "C",
+    "explanation": "釋字第499號解釋指出，憲法中具有本質之重要性而為規範秩序存立之基礎者（如民主共和國原則、國民主權原則、保障人民權利及權力分立與制衡之原則），不得任意修改。「五權分治，平等相維」雖為憲法本文之規定，但並非不可修改之本質重要性條款（例如後來修憲凍結了國民大會）。"
+  },
+  {
+    "id": 2,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "憲法",
+    "question": "依憲法及司法院大法官解釋，下列何種事項，應先經立法院事前同意或決議後，始得為之？",
+    "options": [
+      "(A) 停止預算之執行",
+      "(B) 宣布戒嚴",
+      "(C) 發布緊急命令",
+      "(D) 任命審計長"
+    ],
+    "answer": "D",
+    "explanation": "憲法第104條：「監察院設審計長，由總統提名，經立法院同意任命之。」這是事前同意權。(A)釋字520號，變更法定預算執行，是事後報告或經同意；(B)(C)戒嚴與緊急命令均可由總統先發布，事後追認。"
+  },
+  {
+    "id": 3,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "憲法",
+    "question": "根據司法院大法官解釋意旨，下列有關商業性言論之敘述，何者正確？",
+    "options": [
+      "(A) 廣告以獲取經濟利益為目的，不受言論自由之保障",
+      "(B) 商品標示旨在提供事實資訊，不受言論自由之保障",
+      "(C) 化妝品廣告受憲法保障之程度，並不低於政治性言論",
+      "(D) 藥物廣告事關高度公共利益，不受言論自由之保障"
+    ],
+    "answer": "C",
+    "explanation": "釋字第744號解釋強調，化妝品廣告之事前審查應受嚴格審查，其受保障程度不應低於非商業性言論（政治性言論）。(A)(B)(D)商業言論與藥物廣告原則上仍受言論自由保障，僅受較多限制。"
+  },
+  {
+    "id": 4,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "憲法",
+    "question": "關於憲法保障財產權之敘述，下列何者錯誤？",
+    "options": [
+      "(A) 財產權之保障主體，不以自然人為限",
+      "(B) 公務人員退休金請求權屬憲法財產權之保障範圍",
+      "(C) 土地徵收補償費之發放雖有所延宕，但仍不違反憲法保障人民財產權之精神",
+      "(D) 大眾捷運系統路線軌道穿越人民土地之下方，形成特別犧牲者，土地所有權人請求主管機關辦理徵收地上權"
+    ],
+    "answer": "C",
+    "explanation": "釋字第516號解釋：國家徵收土地，應給予合理之補償，且補償費之發放應於「相當期限內」為之。若發放延宕，致人民財產權受損，即違反憲法保障財產權之意旨。"
+  },
+  {
+    "id": 5,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "憲法",
+    "question": "依司法院大法官解釋意旨，下列何者不屬於公務人員得主張憲法服公職權之保障內涵？",
+    "options": [
+      "(A) 身分之存續",
+      "(B) 特定職位之選擇",
+      "(C) 依法晉敘及陞遷",
+      "(D) 俸給及退休金之請領"
+    ],
+    "answer": "B",
+    "explanation": "釋字第483、575、605號等解釋指出，公務員服公職權包括身分、俸給、退休金、晉敘等保障，但不包括對「特定職位」的選擇權（無請求調任特定職務之權利）。"
+  },
+  {
+    "id": 6,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "憲法",
+    "question": "依司法院大法官解釋意旨，關於人民服兵役之義務，下列敘述何者錯誤？",
+    "options": [
+      "(A) 有關人民服兵役、應召集之事項及其違背義務之制裁手段，應以法律定之",
+      "(B) 課予後備軍人居住處所遷移之申報義務，涉及其居住遷徙自由之限制",
+      "(C) 依法僅男子有服兵役之義務，係鑑於男女生理差異及因此所生不同之社會生活功能角色，並未牴觸平等原則",
+      "(D) 人民無法基於其個人宗教信仰而免除服兵役之義務，並未違反人性尊嚴或動搖憲法價值體系之基礎"
+    ],
+    "answer": "B",
+    "explanation": "釋字第490號解釋：後備軍人居住處所遷移之申報義務，僅係為掌握動員管理，並未限制其遷徙自由（未禁止其搬家）。"
+  },
+  {
+    "id": 7,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "憲法",
+    "question": "依憲法增修條文規定，關於立法院對行政院之不信任案，下列敘述何者正確？",
+    "options": [
+      "(A) 行政院之施政有明顯違憲時，立法院始得對之提出不信任案",
+      "(B) 立法院應以記名投票表決不信任案",
+      "(C) 不信任案如通過，行政院院長應即辭職，由行政院副院長繼任",
+      "(D) 立法院進行不信任案投票前，行政院院長得呈請總統解散立法院"
+    ],
+    "answer": "B",
+    "explanation": "憲法增修條文第3條：(A)無須違憲理由，屬政治責任；(B)正確，記名投票；(C)院長辭職，並得呈請總統解散立法院，非由副院長繼任；(D)是不信任案通過「後」，院長辭職「前」或「同時」得呈請解散。"
+  },
+  {
+    "id": 8,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "憲法",
+    "question": "關於人身自由保障之規定，下列敘述何者錯誤？",
+    "options": [
+      "(A) 關於限制人身自由應遵守之法定程序，屬憲法保留之事項",
+      "(B) 行政執行法之管收處分，亦該當憲法第8條所稱之拘禁",
+      "(C) 僅適用於我國國民",
+      "(D) 行政執行分署之執行員亦屬於憲法第8條所稱警察機關之警察"
+    ],
+    "answer": "C",
+    "explanation": "憲法第8條人身自由保障對象為「人民」，依憲法精神及釋字第708號解釋（外國人收容），外國人原則上亦享有人身自由之保障，非僅限本國國民。"
+  },
+  {
+    "id": 9,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "憲法",
+    "question": "憲法第7條所揭示之平等原則，依司法院釋字第485號解釋之意旨，下列敘述何者正確？",
+    "options": [
+      "(A) 平等原則係指絕對、機械之平等",
+      "(B) 立法機關不得斟酌規範事物性質之差異而為差別待遇",
+      "(C) 立法者基於社會政策考量，非不得制定法律，將福利資源為限定性之分配",
+      "(D) 平等原則保障人民在法律上地位之形式平等"
+    ],
+    "answer": "C",
+    "explanation": "釋字第485號：憲法第7條平等原則並非指絕對、機械之形式上平等，而係保障人民在法律上地位之實質平等。立法機關基於憲法價值體系及立法目的，自得斟酌規範事物性質之差異而為合理之區別對待。"
+  },
+  {
+    "id": 10,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "憲法",
+    "question": "憲法第13條保障人民信仰宗教自由，下列敘述何者錯誤？",
+    "options": [
+      "(A) 宗教自由保障人民信仰與不信仰任何宗教",
+      "(B) 宗教自由保障人民參與或不參與任何宗教活動",
+      "(C) 國家不得對特定宗教獎勵",
+      "(D) 國家強制人民服兵役，乃屬妨礙宗教自由，當然違憲"
+    ],
+    "answer": "D",
+    "explanation": "釋字第490號：人民有依法律服兵役之義務，此為國家安全之必要手段，與宗教信仰自由無違。不得僅以宗教信仰為由拒絕服役，故非當然違憲。"
+  },
+  {
+    "id": 11,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "憲法",
+    "question": "依憲法及增修條文規定，總統應先經行政院院會之決議，始得行使下列何種職權？",
+    "options": [
+      "(A) 行使大赦權",
+      "(B) 解散立法院",
+      "(C) 決定國家安全大政方針",
+      "(D) 任命內政部部長"
+    ],
+    "answer": "A",
+    "explanation": "憲法第58條第2項：行政院院長、各部會首長，須將應行提出於立法院之法律案...及關於大赦、戒嚴...等事項，提出於行政院會議議決之。大赦案須經行政院會議議決。"
+  },
+  {
+    "id": 12,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "憲法",
+    "question": "下列關於總統、副總統罷免程序之敘述，何者錯誤？",
+    "options": [
+      "(A) 總統、副總統之罷免，應聯名同案罷免，不得分別罷免",
+      "(B) 總統、副總統之罷免案，應經立法院之提議、提出程序",
+      "(C) 總統、副總統之罷免公告及投票，由中央選舉委員會辦理",
+      "(D) 總統、副總統罷免案通過後，總統、副總統自罷免投票結果公告之日起，解除職務"
+    ],
+    "answer": "A",
+    "explanation": "總統副總統選舉罷免法第70條及憲法增修條文，並未規定「必須」同案罷免。總統、副總統是分別的職位，理論上可分別罷免（雖然實務上通常聯名選出，但罷免程序對象可單獨）。"
+  },
+  {
+    "id": 13,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "行政法",
+    "question": "依行政院組織法之規定，下列何者係行政院所屬機關？",
+    "options": [
+      "(A) 國史館",
+      "(B) 銓敘部",
+      "(C) 海洋委員會",
+      "(D) 中央研究院"
+    ],
+    "answer": "C",
+    "explanation": "(A)國史館隸屬總統府；(B)銓敘部隸屬考試院；(D)中央研究院隸屬總統府。僅(C)海洋委員會為行政院所屬二級機關。"
+  },
+  {
+    "id": 14,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "憲法",
+    "question": "依司法院釋字第392號解釋，下列敘述何者正確？",
+    "options": [
+      "(A) 廣義法院係指組織法意義上之法院",
+      "(B) 廣義法院與法官同義",
+      "(C) 廣義法院指從事審判權而具司法獨立之內涵者",
+      "(D) 廣義法院係指訴訟法意義上之法院"
+    ],
+    "answer": "A",
+    "explanation": "釋字第392號解釋區分「狹義法院」與「廣義法院」。狹義法院指從事審判之法官；廣義法院則指「國家組織法上」賦予司法權之機關，包含檢察機關。"
+  },
+  {
+    "id": 15,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "憲法訴訟法",
+    "question": "司法院釋字第572號解釋認為，法官如確信其審理之原因案件所擬適用之系爭法律違憲，顯然於該案件之裁判結果有影響，得聲請解釋憲法。此之「於該案件之裁判結果有影響」係指下列何者？",
+    "options": [
+      "(A) 管轄問題",
+      "(B) 先決問題",
+      "(C) 合法性問題",
+      "(D) 目的性問題"
+    ],
+    "answer": "B",
+    "explanation": "釋字第572號解釋定義「先決問題」：指系爭法律之違憲與否，為該案件裁判之先決條件，即該法律若違憲，裁判結果將不同。"
+  },
+  {
+    "id": 16,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "法學緒論",
+    "question": "下列何者非屬法律解釋之方法？",
+    "options": [
+      "(A) 擴張解釋",
+      "(B) 實質解釋",
+      "(C) 限縮解釋",
+      "(D) 反面解釋"
+    ],
+    "answer": "B",
+    "explanation": "法律解釋方法包含文義解釋、論理解釋（擴張、限縮、反面、當然解釋等）。「實質解釋」並非傳統法律解釋方法之專有名詞（或指實質審查，非解釋方法）。"
+  },
+  {
+    "id": 17,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "法學緒論",
+    "question": "下列關於法律規範之敘述，何者正確？",
+    "options": [
+      "(A) 支配人類思想、活動與無理性之自然界定律",
+      "(B) 係關於人類生活之規範",
+      "(C) 凡屬於善惡判斷之規範，即為法律",
+      "(D) 審美規範亦屬法律規範"
+    ],
+    "answer": "B",
+    "explanation": "法律是社會生活規範的一種。(A)是自然法則；(C)是道德；(D)是美學標準。"
+  },
+  {
+    "id": 18,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "著作權法",
+    "question": "依著作權法規定，下列關於製版權之敘述，何者錯誤？",
+    "options": [
+      "(A) 係針對無著作財產權或著作財產權消滅之文字著述或美術著作",
+      "(B) 採登記主義",
+      "(C) 保護期間係自製版完成起20年",
+      "(D) 製版人就其版面，專有以影印、印刷或類似方式重製之權利"
+    ],
+    "answer": "C",
+    "explanation": "著作權法第79條：製版權之保護期間，自製版完成時起算「十年」。非二十年。"
+  },
+  {
+    "id": 19,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "家庭暴力防治法",
+    "question": "有關家庭暴力防治法中，對於犯家庭暴力罪或違反保護令罪而受緩刑之宣告，下列何者錯誤？",
+    "options": [
+      "(A) 犯家庭暴力罪或違反保護令罪而受緩刑之宣告者，在緩刑期內應付保護管束",
+      "(B) 法院為緩刑宣告時，應即通知加害人及其住居所所在地之警察機關",
+      "(C) 法院為犯家庭暴力罪或違反保護令罪加害人緩刑宣告時，可以命被告於付緩刑保護管束期間內，完成加害人處遇計畫",
+      "(D) 法院命被告完成加害人處遇計畫前，得準用第14條第3項之規定"
+    ],
+    "answer": "B",
+    "explanation": "家暴法第38條：法院為緩刑宣告時，應即通知被害人及其住居所所在地之警察機關（保護被害人安全）。通知加害人是當然的，但條文強調的是通知「被害人」及警察。"
+  },
+  {
+    "id": 20,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "民法",
+    "question": "租賃物為房屋，無押租金之給付下，其租金約定於每期開始時支付，則出租人在下列何種情況下，得終止租賃契約？",
+    "options": [
+      "(A) 承租人支付租金有遲延時",
+      "(B) 承租人遲付租金之總額，達2個月租額時",
+      "(C) 承租人遲付租金之總額，達2個月租額，且遲延給付逾2個月時",
+      "(D) 承租人遲付租金之總額，達2個月租額，且遲延給付逾2個月，經出租人定期催告，承租人仍不為支付時"
+    ],
+    "answer": "D",
+    "explanation": "民法第440條：租賃物為房屋者，遲付租金之總額，非達二個月之租額，不得依前項規定，終止契約。且須經定相當期限催告，承租人仍不支付者，始得終止。"
+  },
+  {
+    "id": 21,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "法學緒論",
+    "question": "下列法律概念或法律思想，何者並非從西方法制繼受而來？",
+    "options": [
+      "(A) 契約自由",
+      "(B) 卑親屬故意傷害尊親屬加重刑罰",
+      "(C) 所有權神聖",
+      "(D) 個人主義"
+    ],
+    "answer": "B",
+    "explanation": "殺害或傷害尊親屬加重其刑，源自於中國傳統倫理（孝道）觀念，即「惡逆」大罪，非繼受自西方個人主義法制。"
+  },
+  {
+    "id": 22,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "行政法",
+    "question": "中央法規標準法第6條規定「應以法律規定之事項，不得以命令定之」，係關於下列何種基本原則之規定？",
+    "options": [
+      "(A) 法律優位原則",
+      "(B) 法律保留原則",
+      "(C) 法律明確性原則",
+      "(D) 法律授權明確性原則"
+    ],
+    "answer": "B",
+    "explanation": "法律保留原則：指特定事項必須保留由法律規定，行政機關不得自行以命令定之。中央法規標準法第6條即此原則之明文。"
+  },
+  {
+    "id": 23,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "行政法",
+    "question": "有關法律優位原則之敘述，下列何者錯誤？",
+    "options": [
+      "(A) 法律優位原則要求一切行政活動必須有法律之明文依據",
+      "(B) 法律優位原則要求不違背法律之規定",
+      "(C) 法律優位原則要求行政應受一般法律原則之拘束",
+      "(D) 法律優位原則要求行政應受法律之拘束"
+    ],
+    "answer": "A",
+    "explanation": "(A)是「法律保留原則」的要求（積極依法行政）。法律優位原則（消極依法行政）僅要求行政行為「不得牴觸」法律，不一定每一件事都要有法律明文依據。"
+  },
+  {
+    "id": 24,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "行政法",
+    "question": "關於依法行政原則之敘述，下列何者錯誤？",
+    "options": [
+      "(A) 法治國原則之內容",
+      "(B) 支配行政權行使之原則",
+      "(C) 又可細分為法律優位原則與法律保留原則",
+      "(D) 共和國原則之具體化"
+    ],
+    "answer": "D",
+    "explanation": "依法行政原則是「法治國原則」的核心，而非「共和國原則」（共和國原則強調國家元首非世襲、主權在民）。"
+  },
+  {
+    "id": 25,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "行政法",
+    "question": "主管機關查獲業者違法排放廢水，除處以罰鍰外，並命其限期改善。主管機關於期限屆滿前，針對同一污染行為再次處以罰鍰，後罰鍰處分違反下列何種原則？",
+    "options": [
+      "(A) 比例原則",
+      "(B) 誠實信用原則",
+      "(C) 信賴保護原則",
+      "(D) 不當聯結禁止原則"
+    ],
+    "answer": "B",
+    "explanation": "主管機關已給予「限期改善」，即表示在期限內業者有改善的機會與時間，若在期限屆滿前又處罰，違反了人民對行政機關承諾的信賴與誠信（誠實信用原則）。"
+  },
+  {
+    "id": 26,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "民法",
+    "question": "甲、乙、丙、丁、戊共有A地，其應有部分為均等。下列敘述何者符合民法關於共有物處分及管理之規定？",
+    "options": [
+      "(A) 丁得單獨處分其應有部分",
+      "(B) A地的管理，應以全體共有人的同意行之",
+      "(C) A地的處分，得以應有部分合計逾三分之二的共有人之同意行之",
+      "(D) A地的處分，得以共有人過半數及其應有部分合計過半數之同意行之"
+    ],
+    "answer": "A",
+    "explanation": "民法第819條：各共有人得自由處分其應有部分。故(A)正確。(B)管理依第820條，以多數決為之；(C)(D)處分依第819條第2項需全體同意（若依土地法34-1條特別規定，則(D)可能成立，但題目問民法規定，原則上處分共有物需全體同意；若考題意指土地法，D較正確。但本題官方答案為A，因A絕對無爭議）。"
+  },
+  {
+    "id": 27,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "刑法",
+    "question": "國人甲在日本殺害具有中華民國國籍之女留學生，下列關於依外國裁判服刑之效力敘述，何者正確？",
+    "options": [
+      "(A) 甲於日本服刑完畢，基於雙重處罰禁止，回臺不必服刑",
+      "(B) 回臺仍要重新審理，刑期不能抵免",
+      "(C) 我國係採折衷說，原則上仍得依中華民國刑法論處，但在外國已受刑之全部或一部執行者，得免其刑之全部或一部之執行",
+      "(D) 法無明文，屬於法官裁量範圍"
+    ],
+    "answer": "C",
+    "explanation": "刑法第9條：同一行為雖經外國確定裁判，仍得依本法處斷。但在外國已受刑之全部或一部執行者，得免其刑之全部或一部之執行（折衷原則）。"
+  },
+  {
+    "id": 28,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "刑法",
+    "question": "有關共同正犯之敘述，下列何者正確？",
+    "options": [
+      "(A) 我國實務界承認過失共同正犯",
+      "(B) 我國實務界承認相續共同正犯",
+      "(C) 我國實務界不承認共謀共同正犯",
+      "(D) 我國實務界承認教唆犯之共同正犯"
+    ],
+    "answer": "B",
+    "explanation": "(A)實務原則否定過失共同正犯（釋字109參考）；(B)承認相續共同正犯（中途加入者）；(C)釋字109號承認共謀共同正犯；(D)教唆犯為從犯，無共同正犯概念。"
+  },
+  {
+    "id": 29,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "勞動基準法",
+    "question": "依勞動基準法第23條之規定，對於工資清冊，雇主應保存期間為多久？",
+    "options": [
+      "(A) 應保存2年",
+      "(B) 應保存3年",
+      "(C) 應保存5年",
+      "(D) 應保存6年"
+    ],
+    "answer": "C",
+    "explanation": "勞動基準法第23條第2項：雇主應置備勞工工資清冊...並應保存五年。"
+  },
+  {
+    "id": 30,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "家庭暴力防治法",
+    "question": "法院於訴訟或調解程序中如認為有家庭暴力之情事時，下列何者不得進行和解或調解？",
+    "options": [
+      "(A) 其他行和解或調解之人，認為能使被害人免受加害人脅迫之程序",
+      "(B) 加害人及其家屬或關係人有高度之和解或調解之動機與誠意",
+      "(C) 准許被害人選定輔助人參與和解或調解",
+      "(D) 行和解或調解之人曾受家庭暴力防治之訓練，並以確保被害人安全之方式，進行和解或調解"
+    ],
+    "answer": "B",
+    "explanation": "家暴法第47條：法院於訴訟或調解程序中，認為有家庭暴力之情事時，不得進行和解或調解。但有下列情形之一者，不在此限：(ACD)。(B)僅加害人有誠意，不足以確保被害人安全與自由意志，故不得進行。"
+  },
+  {
+    "id": 31,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "Sometimes _______ comments or looks exchanged between two guest groups at night clubs or KTVs eventually lead to a brutal fight between them.",
+    "options": [
+      "(A) public",
+      "(B) hilarious",
+      "(C) justifiable",
+      "(D) provocative"
+    ],
+    "answer": "D",
+    "explanation": "provocative (挑釁的)。"
+  },
+  {
+    "id": 32,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "Hundreds of acres of forests in California alone are _______ due to the wild fires in summer.",
+    "options": [
+      "(A) cautioned",
+      "(B) approached",
+      "(C) retaliated",
+      "(D) ravaged"
+    ],
+    "answer": "D",
+    "explanation": "ravaged (蹂躪、破壞)。"
+  },
+  {
+    "id": 33,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "Jane said at the job interview that with her excellent _______ background in information science, she had what it takes to contribute to the company.",
+    "options": [
+      "(A) academic",
+      "(B) declare",
+      "(C) register",
+      "(D) translate"
+    ],
+    "answer": "A",
+    "explanation": "academic (學術的)。題目選項A原文漏字，依語意應為 academic background (學歷背景)。"
+  },
+  {
+    "id": 34,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "Among the ten competitors for the singing _______, one of them failed to show up because of a traffic jam.",
+    "options": [
+      "(A) commission",
+      "(B) context",
+      "(C) content",
+      "(D) contest"
+    ],
+    "answer": "D",
+    "explanation": "contest (比賽)。singing contest (歌唱比賽)。"
+  },
+  {
+    "id": 35,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "In my family, all members clean the house together during the weekend. My duty is to sweep the floor and my younger brother's _______ is to empty the dishwasher.",
+    "options": [
+      "(A) assistant",
+      "(B) chore",
+      "(C) legacy",
+      "(D) track"
+    ],
+    "answer": "B",
+    "explanation": "chore (雜務、家務)。"
+  },
+  {
+    "id": 36,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "Such beliefs go back to ancient cultures such as the Greeks and Romans, _______ believed that natural occurrences were a result of actions of the gods.",
+    "options": [
+      "(A) who",
+      "(B) while",
+      "(C) whose",
+      "(D) where"
+    ],
+    "answer": "A",
+    "explanation": "先行詞為 Greeks and Romans (人)，關代用 who。"
+  },
+  {
+    "id": 37,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "_______ killing off the cats, the English caused the rat population to flourish, and, thus increase disease.",
+    "options": [
+      "(A) At",
+      "(B) By",
+      "(C) Of",
+      "(D) For"
+    ],
+    "answer": "B",
+    "explanation": "By killing off (藉由/因為殺光了貓)。By + Ving 表手段或原因。"
+  },
+  {
+    "id": 38,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "The black cat crossing one's path _______ bad luck, for example.",
+    "options": [
+      "(A) denotes",
+      "(B) ignores",
+      "(C) disproves",
+      "(D) withholds"
+    ],
+    "answer": "A",
+    "explanation": "denotes (表示、象徵)。"
+  },
+  {
+    "id": 39,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "Saint Gregory I the Great ordered that people say \"God Bless You\" when someone sneezed _______ ward off disease.",
+    "options": [
+      "(A) by means of",
+      "(B) in honor of",
+      "(C) in order to",
+      "(D) in place of"
+    ],
+    "answer": "C",
+    "explanation": "in order to (為了)。"
+  },
+  {
+    "id": 40,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "So now people say pretty much the _______ to ward off bad luck.",
+    "options": [
+      "(A) indirect",
+      "(B) blessing",
+      "(C) approval",
+      "(D) opposite"
+    ],
+    "answer": "D",
+    "explanation": "opposite (相反的)。意指原本是希望好運，卻說「斷腿」(break a leg)，說反話來避邪。"
+  },
+  {
+    "id": 41,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "Its population is very small and it needs active _______ to survive.",
+    "options": [
+      "(A) possession",
+      "(B) precision",
+      "(C) protection",
+      "(D) projection"
+    ],
+    "answer": "C",
+    "explanation": "protection (保護)。"
+  },
+  {
+    "id": 42,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "The species extinction rate is now one species per day, which will lead to a dramatic decrease in the _______ of life on earth.",
+    "options": [
+      "(A) adversity",
+      "(B) diversity",
+      "(C) necessity",
+      "(D) intensity"
+    ],
+    "answer": "B",
+    "explanation": "diversity (多樣性)。biodiversity (生物多樣性)。"
+  },
+  {
+    "id": 43,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "River dolphins that live in Asia and the Amazon are _______ due to dam building and habitat destruction.",
+    "options": [
+      "(A) disappearing",
+      "(B) discharging",
+      "(C) glowing",
+      "(D) growing"
+    ],
+    "answer": "A",
+    "explanation": "disappearing (消失中)。"
+  },
+  {
+    "id": 44,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "Several species of dolphins in the eastern tropical Pacific are now considered _______ under the Marine Mammal Protection Act.",
+    "options": [
+      "(A) overspilt",
+      "(B) overflowed",
+      "(C) disputed",
+      "(D) depleted"
+    ],
+    "answer": "D",
+    "explanation": "depleted (耗盡的、枯竭的)。"
+  },
+  {
+    "id": 45,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "Efforts of environmental organizations and consumers led to \"dolphin-safe\" labeling of canned tuna, and a 98% reduction in dolphin _______ since 1990.",
+    "options": [
+      "(A) mortality",
+      "(B) morality",
+      "(C) mobility",
+      "(D) minimality"
+    ],
+    "answer": "A",
+    "explanation": "mortality (死亡數/率)。"
+  },
+  {
+    "id": 46,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "According to the passage, which of the following statements is true about IQ?",
+    "options": [
+      "(A) The traditional IQ test does not accurately measure the degree to which a person can make wise decisions.",
+      "(B) The traditional IQ test includes verbal and mathematical questions but not visual processing tasks.",
+      "(C) The acronym IQ stands for Intelligent Quotient; it measures a person's critical thinking.",
+      "(D) A person with a high IQ score is more likely to have a satisfactory life."
+    ],
+    "answer": "A",
+    "explanation": "文中指出傳統 IQ 測驗無法衡量現實生活決策能力 (fail to capture real-world decision-making)。"
+  },
+  {
+    "id": 47,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "Which of the following is NOT an advantage of being intelligent?",
+    "options": [
+      "(A) Being successful at work.",
+      "(B) Bringing a gun to school.",
+      "(C) Obtaining a doctoral degree.",
+      "(D) Getting good grades in school."
+    ],
+    "answer": "B",
+    "explanation": "文中提到聰明人較少惹麻煩 (less likely to get into trouble)，如犯罪。故帶槍去學校(惹麻煩)不是優點。"
+  },
+  {
+    "id": 48,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "What is the main purpose of the last paragraph?",
+    "options": [
+      "(A) Defining the meaning of critical thinking.",
+      "(B) Explaining why critical thinking is more important than intelligence.",
+      "(C) Giving examples of critical thinking.",
+      "(D) Presenting research findings on the impacts of critical thinking."
+    ],
+    "answer": "A",
+    "explanation": "最後一段主要在定義何謂批判性思考 (Critical thinking is a collection of cognitive skills...)。"
+  },
+  {
+    "id": 49,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "Which of the following is a characteristic of critical thinkers?",
+    "options": [
+      "(A) They are smart but they do dumb things sometimes.",
+      "(B) They tend to be picky on everything and are less satisfied in life.",
+      "(C) They are able to discern invalid reasoning.",
+      "(D) They do not know when to apply their cognitive skills."
+    ],
+    "answer": "C",
+    "explanation": "文中提到批判性思考者能辨識謬誤的意圖 (recognize fallacious attempts to persuade them)。"
+  },
+  {
+    "id": 50,
+    "subject": "法學知識與英文",
+    "year": 107,
+    "category": "英文",
+    "question": "Which of the following best serves as the title of the passage?",
+    "options": [
+      "(A) Smart People Take Advantages of Life.",
+      "(B) Large Scale Studies at Odds with the IQ Test.",
+      "(C) Intelligence Is Not the Same as Critical Thinking.",
+      "(D) Social Abilities Are More Important Than Cognitive Skills."
+    ],
+    "answer": "C",
+    "explanation": "全文主旨在討論智力 (IQ) 與批判性思考 (Critical Thinking) 的不同，以及後者對生活福祉的重要性。"
+  },
+  {
+    "id": 1,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "依司法院大法官之解釋及地方制度法之規定，下列何者得聲請司法院解釋？",
+    "options": [
+      "(A) 自治法規與法律有無牴觸發生疑義時",
+      "(B) 地方自治團體不服中央主管機關之代行處理",
+      "(C) 地方自治團體之行政機關對該團體之立法機關所議決之事項有爭議時",
+      "(D) 地方立法機關認為自己議決通過之自治法規有牴觸憲法之疑義時"
+    ],
+    "answer": "A",
+    "explanation": "依釋字第527號及地方制度法第30條第5項，自治法規與憲法、法律、基於法律授權之法規有無牴觸發生疑義時，得聲請司法院解釋。"
+  },
+  {
+    "id": 2,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "依據憲法及司法院大法官解釋意旨，有關人身自由之保障，下列敘述何者錯誤？",
+    "options": [
+      "(A) 人民因犯罪嫌疑被逮捕拘禁，至遲應於24小時內移送法院審問",
+      "(B) 逮捕拘禁之機關，對於法院之提審，不得拒絕或遲延",
+      "(C) 依據行政執行法規定對債務人所為之管收，須受憲法第8條規定之拘束",
+      "(D) 基於防治傳染病之必要，於緊急而有限制人身自由之必要時，仍須受憲法第8條法官保留原則之拘束"
+    ],
+    "answer": "D",
+    "explanation": "釋字第690號認為，傳染病防治法關於強制隔離之規定，雖拘束人身自由，但因情況緊急且為專業判斷，不須經過法官裁定，亦不違憲。故(D)認為「仍須受法官保留原則拘束」錯誤。"
+  },
+  {
+    "id": 3,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "依司法院大法官之解釋，人民身體自由之保障，係屬於何種層級之法律保留？",
+    "options": [
+      "(A) 憲法保留",
+      "(B) 絕對法律保留",
+      "(C) 相對法律保留",
+      "(D) 最廣義法律保留"
+    ],
+    "answer": "A",
+    "explanation": "憲法第8條對於人身自由有詳細規定（如24小時移送、法院提審等），這些規定具有憲法位階，立法機關亦不得修改，故屬「憲法保留」。"
+  },
+  {
+    "id": 4,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "關於秘密通訊自由，下列敘述何者正確？",
+    "options": [
+      "(A) 秘密通訊自由為憲法所保障之隱私權具體態樣，亦屬於言論自由範疇",
+      "(B) 凡人民所為與公共利益無關之通訊內容，不受秘密通訊自由之保障",
+      "(C) 父母擅自閱讀子女手機中儲存之訊息，子女並不受秘密通訊自由之保障",
+      "(D) 警察為偵查犯罪進行監聽，向檢察官聲請核發監聽票，符合正當法律程序"
+    ],
+    "answer": "A",
+    "explanation": "釋字第631號指出，秘密通訊自由為憲法保障之權利。(D)監聽票應向「法院（法官）」聲請核發，非檢察官。"
+  },
+  {
+    "id": 5,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "依司法院大法官解釋之意旨，有關訴訟權保障之敘述，下列何者錯誤？",
+    "options": [
+      "(A) 受羈押被告認執行羈押機關對其所為之不利決定，逾越達成羈押目的或維持羈押處所秩序之必要範圍，應許其向法院提起訴訟請求救濟",
+      "(B) 有關課稅之處分，以繳納全部或一定比例之稅款作為提起行政救濟條件之規定，係為增進公共利益所必要，與憲法第16條之規定尚無牴觸",
+      "(C) 刑事被告與辯護人能在不受干預下充分自由溝通，為辯護人協助被告行使防禦權之重要內涵，應受憲法訴訟權之保障",
+      "(D) 刑事訴訟法規定，對於配偶不得提起自訴，係為維持家庭和諧及人倫關係所為之合理限制，並非不得對配偶提出告訴，與憲法並無牴觸"
+    ],
+    "answer": "B",
+    "explanation": "釋字第224號解釋宣告，稅務行政訴訟以繳納一定比例稅款或提供擔保為前提之規定，違憲（妨礙人民訴訟權）。"
+  },
+  {
+    "id": 6,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "有關比例原則之敘述，下列何者正確？",
+    "options": [
+      "(A) 比例原則意指教、科、文預算應佔政府預算總額一定比例",
+      "(B) 比例原則一詞係憲法明文採用",
+      "(C) 比例原則非僅拘束行政，對所有政府機關皆具拘束力",
+      "(D) 比例原則適用對象為合法納稅者，未合法納稅者不得主張"
+    ],
+    "answer": "C",
+    "explanation": "比例原則（憲法第23條）拘束所有國家公權力行為（立法、行政、司法）。(B)憲法第23條雖體現比例原則精神，但未直接使用「比例原則」四字。"
+  },
+  {
+    "id": 7,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "依司法院大法官解釋之意旨及公民投票法之規定，有關公民投票之敘述，下列何者錯誤？",
+    "options": [
+      "(A) 公民投票是一種直接民主的展現",
+      "(B) 公民投票訴訟以二審終結，且不得提起再審之訴",
+      "(C) 基於憲法第22條規定，人民得以公民投票方式議決國家重要事項",
+      "(D) 總統具有公民投票案之交付權"
+    ],
+    "answer": "C",
+    "explanation": "釋字第645號指出，公民投票並非憲法第22條概括保障之基本權利，而是須經立法形成之制度性權利。"
+  },
+  {
+    "id": 8,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "行政法",
+    "question": "關於國家賠償責任，下列敘述何者正確？",
+    "options": [
+      "(A) 公務員因故意或過失造成人民損害時，應與其所屬機關負連帶損害賠償責任",
+      "(B) 公務員怠於執行職務造成人民損害時，限於公務員有故意或重大過失之情形，其所屬機關始負國家賠償責任",
+      "(C) 受委託行使公權力之私人於受託範圍內視為行政機關，其因故意或過失造成人民損害時，應自負國家賠償責任",
+      "(D) 公務員因故意或過失致公有公共設施之設置管理有欠缺，造成人民生命、身體、財產之損害時，其所屬機關應負國家賠償責任"
+    ],
+    "answer": "D",
+    "explanation": "國家賠償法第2條（公務員責任）與第3條（公共設施責任）競合時，仍可請求國賠。(A)機關負賠償責任，非連帶；(B)怠於執行職務不限於故意或重大過失；(C)受託人視為公務員，由委託機關負賠償責任。"
+  },
+  {
+    "id": 9,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "有關總統刑事豁免權之規定，下列敘述何者錯誤？",
+    "options": [
+      "(A) 總統享有刑事豁免權，乃是對於總統的特殊身分所為之尊崇與保障",
+      "(B) 總統享有刑事豁免權是一身專屬權，僅限於任職期間享有",
+      "(C) 總統享有刑事豁免權，但得因他人刑事案件而對總統進行證據調查與證據保全",
+      "(D) 總統為證明自己之清白，得拋棄其刑事豁免權"
+    ],
+    "answer": "D",
+    "explanation": "釋字第627號：總統刑事豁免權是「職位之保障」，非個人特權，故總統不得拋棄。"
+  },
+  {
+    "id": 10,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "依司法院釋字第520號解釋之意旨，有關預算案之執行，下列敘述何者正確？",
+    "options": [
+      "(A) 預算案為措施性法律，行政院不得拒絕執行",
+      "(B) 未涉及重要政策變更之預算執行，行政院仍不得拒絕執行",
+      "(C) 維持法定機關運作之法定預算，行政院不得拒絕執行",
+      "(D) 涉及重要政策變更之預算執行，行政院得彈性執行預算"
+    ],
+    "answer": "C",
+    "explanation": "釋字第520號：維持法定機關正常運作及履行法定應盡義務之經費（法定預算），行政機關無停止執行之裁量空間。"
+  },
+  {
+    "id": 11,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "關於立法院得行使之職權，下列何者錯誤？",
+    "options": [
+      "(A) 每年集會時得聽取總統國情報告",
+      "(B) 強制地方政府人員應到會備詢",
+      "(C) 設置各種委員會，包括調查委員會",
+      "(D) 議決宣戰案"
+    ],
+    "answer": "B",
+    "explanation": "釋字第498號：立法院對地方自治團體無直接監督權，不得強制地方政府人員到會備詢（地方自治團體行政機關人員受邀得列席說明，但非義務）。"
+  },
+  {
+    "id": 12,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "每屆立法委員任期屆滿時，尚未議決之議案，下屆不予繼續審議，下列何者適用此一原則？",
+    "options": [
+      "(A) 法律案",
+      "(B) 預算案",
+      "(C) 決算案",
+      "(D) 人民請願案"
+    ],
+    "answer": "A",
+    "explanation": "立法院職權行使法第13條：「每屆立法委員任期屆滿時，除預算案及人民請願案外，尚未議決之議案，下屆不予繼續審議。」（屆期不連續原則之例外：預算案、請願案）。"
+  },
+  {
+    "id": 13,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "司法院為國家最高司法機關，下列敘述何者正確？",
+    "options": [
+      "(A) 司法院掌理公務員之懲戒",
+      "(B) 司法院為審判上之實質最高機關",
+      "(C) 司法院指揮監督所屬各級法院審判職務",
+      "(D) 司法院為國家機關，地方法院則為地方機關"
+    ],
+    "answer": "A",
+    "explanation": "憲法第77條：司法院掌理民事、刑事、行政訴訟之審判及公務員之懲戒。(B)最高法院/最高行政法院才是審判實質最高機關；(C)審判獨立，不可指揮監督審判職務（僅行政監督）；(D)皆為國家機關。"
+  },
+  {
+    "id": 14,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "依司法院大法官審理案件法相關規定，聲請解釋憲法或聲請統一解釋不合聲請要件而無法補正時，如何處理？",
+    "options": [
+      "(A) 應以無理由駁回",
+      "(B) 應議決不予受理",
+      "(C) 應指導命重行聲請",
+      "(D) 應裁定停止程序"
+    ],
+    "answer": "B",
+    "explanation": "（舊法）司法院大法官審理案件法第5條第3項：聲請不合要件者，應不受理。"
+  },
+  {
+    "id": 15,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "總統任命下列何種人員，須經立法院同意？",
+    "options": [
+      "(A) 行政院院長",
+      "(B) 考試院院長",
+      "(C) 中央研究院院長",
+      "(D) 國史館館長"
+    ],
+    "answer": "B",
+    "explanation": "憲法增修條文第6條：考試院院長、副院長及考試委員，由總統提名，經立法院同意任命之。"
+  },
+  {
+    "id": 16,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "行政法",
+    "question": "若行政機關與人民在土地徵收事件上發生爭議，應依下列何種程序解決？",
+    "options": [
+      "(A) 行政訴訟程序",
+      "(B) 民事訴訟程序",
+      "(C) 強制執行程序",
+      "(D) 破產程序"
+    ],
+    "answer": "A",
+    "explanation": "土地徵收屬公法爭議，應循行政爭訟程序（訴願、行政訴訟）解決。"
+  },
+  {
+    "id": 17,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "在立法院內，應經三讀程序者，為下列何種議案？",
+    "options": [
+      "(A) 覆議案",
+      "(B) 預算案",
+      "(C) 人民請願案",
+      "(D) 總統之彈劾案"
+    ],
+    "answer": "B",
+    "explanation": "立法院職權行使法第7條、第61條等規定，法律案及預算案應經三讀程序。"
+  },
+  {
+    "id": 18,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "法學緒論",
+    "question": "下列那一個法律領域，當行為後法律變更，應適用從舊從輕原則？",
+    "options": [
+      "(A) 行政法",
+      "(B) 憲法",
+      "(C) 民法",
+      "(D) 刑法"
+    ],
+    "answer": "D",
+    "explanation": "刑法第2條第1項規定：「行為後法律有變更者，適用行為時之法律。但行為後之法律有利於行為人者，適用最有利於行為人之法律。」（從舊從輕）。(A)行政罰法亦有從舊從輕，但題目單選通常指最典型的刑法。"
+  },
+  {
+    "id": 19,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "法學緒論",
+    "question": "憲法第22條規定：「凡人民之其他自由及權利，不妨害社會秩序公共利益者，均受憲法之保障。」故自由或權利妨害社會秩序公共利益者，解釋上不受憲法之保障。此項解釋方法屬於下列何者？",
+    "options": [
+      "(A) 補正解釋",
+      "(B) 文義解釋",
+      "(C) 當然解釋",
+      "(D) 反面解釋"
+    ],
+    "answer": "D",
+    "explanation": "從正面規定推導出反面結論（若A則B -> 若非A則非B），為「反面解釋」。"
+  },
+  {
+    "id": 20,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "依司法院大法官解釋，下列何者被宣告違反平等原則？",
+    "options": [
+      "(A) 身心障礙者保護法有關非視覺功能障礙者，不得從事按摩業之規定",
+      "(B) 兵役法有關中華民國男子依法有服兵役義務之規定",
+      "(C) 遺產及贈與稅法規定，配偶相互贈與之財產不計入贈與總額，不包含未成立法律上婚姻關係之異性伴侶",
+      "(D) 兩岸關係條例舊法規定，原設籍大陸地區人民設籍臺灣地區未滿10年，不得擔任公務員"
+    ],
+    "answer": "A",
+    "explanation": "釋字第649號宣告「非視障者不得從事按摩業」之規定違反平等權及工作權（比例原則）。"
+  },
+  {
+    "id": 21,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "憲法",
+    "question": "依司法院釋字第603號解釋之見解，個人資料之資訊隱私權保障，係基於下列何項自由民主憲政秩序之核心價值？",
+    "options": [
+      "(A) 維護社會秩序與保障公共利益",
+      "(B) 維護多元文化與促進族群融合",
+      "(C) 維護人性尊嚴與尊重人格自由發展",
+      "(D) 維護法治國原則與遵守國際法秩序"
+    ],
+    "answer": "C",
+    "explanation": "釋字第603號（指紋建檔案）：隱私權乃為維護人性尊嚴與尊重人格自由發展，應受憲法第22條保障。"
+  },
+  {
+    "id": 22,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "民法",
+    "question": "甲向乙借錢，由甲之友人丙提供土地為乙設定抵押權，擔保乙之債權。債務清償期屆至，甲無力清償債務。下列敘述，何者正確？",
+    "options": [
+      "(A) 丙得向乙清償甲之債務",
+      "(B) 甲得拒絕丙代為清償債務",
+      "(C) 乙得拒絕丙之清償債務",
+      "(D) 甲異議時，乙始得拒絕丙清償"
+    ],
+    "answer": "A",
+    "explanation": "民法第311條：債之清償，得由第三人為之。但當事人另有訂定或性質上不得由第三人清償者不在此限。第三人之清償，債務人有異議時，債權人得拒絕其清償。但第三人就債之履行有利害關係者（如丙是抵押人），債權人不得拒絕。故(A)正確，(C)(D)錯誤。"
+  },
+  {
+    "id": 23,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "民法",
+    "question": "下列法律行為，何者不違反公共秩序或善良風俗？",
+    "options": [
+      "(A) 一方以將來與他方結婚而為之贈與，約定一方於他方日後不願結婚時，得請求返還贈與物",
+      "(B) 夫妻間為恐一方於日後有虐待或侮辱他方情事，而預立離婚契約",
+      "(C) 債權人與債務人約定訂立以人身為抵押標的之契約",
+      "(D) 對涉訟之人，提供證據資料或允諾負擔費用，而與之約定應於勝訴後給付訟爭標的物之一部分或其價額之若干比例"
+    ],
+    "answer": "A",
+    "explanation": "(A)為附解除條件之贈與（婚約贈與），合法有效。(B)預立離婚契約違反公序良俗無效；(C)人身不得為抵押標的；(D)包攬訴訟（律師倫理或公序良俗）問題。"
+  },
+  {
+    "id": 24,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "民法",
+    "question": "甲駕駛其所有市價100萬元之愛車，遭乙自後追撞而受損，修復費用為20萬元，但修復之後該車之市場價格，亦跌為75萬元（減少25萬元），甲心疼不已。下列敘述，何者正確？",
+    "options": [
+      "(A) 甲僅可向乙請求賠償該車之修復費用20萬元",
+      "(B) 甲僅可向乙請求賠償該車因毀損所減少之價額25萬元",
+      "(C) 甲可向乙請求賠償該車之修復費用及因毀損所減少之價額共45萬元",
+      "(D) 甲除請求賠償該車因毀損所減少之價額外，尚可請求非財產上之損害賠償"
+    ],
+    "answer": "C",
+    "explanation": "民法第213條至215條，損害賠償以回復原狀為原則。若修復後仍有價值減損（交易性貶值），該減損部分亦屬損害，得請求賠償。故修復費20萬 + 交易貶值(100-75-20=5萬? 題目說跌為75，即減少25，若修復費20，則貶值損失為25-20=5? 或者是修復費20+交易性貶值? 實務上通常認可修復費+交易性貶值)。但題目說「市場價格跌為75(減少25)」，意思是未修復前減少25? 還是修復後仍減少25? 題目文字為「修復之後...亦跌為75(減少25)」，代表總共損失了25萬的價值? 還是20萬修車+額外跌價? 依選項C的意思，應是指修復費20萬+修復後之貶值。若解讀為「總價值減少25萬」，則應賠25。但本題C選項45萬代表：修車20萬+價值減損25萬=45萬。這表示修好後車子只值75萬（原價100），中間差了25萬是「修復後之貶值」。故總損害=支出20+貶值25=45。"
+  },
+  {
+    "id": 25,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "刑法",
+    "question": "甲、乙相約至X家行竊，偷竊完畢離去時，乙未料甲臨時起意將X屋放火燒燬。對於甲燒燬X屋所成立之放火罪，乙應如何處斷？",
+    "options": [
+      "(A) 成立作為放火罪",
+      "(B) 成立不作為放火罪",
+      "(C) 成立放火罪之幫助犯",
+      "(D) 不成立放火罪"
+    ],
+    "answer": "D",
+    "explanation": "乙與甲之犯意聯絡僅止於竊盜，甲放火為「犯意過剩」，乙對放火無犯意聯絡亦無行為分擔，故乙不負放火罪責。"
+  },
+  {
+    "id": 26,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "刑法",
+    "question": "甲教唆乙殺X。乙於前往殺X的途中見到自己的仇家Y，於是將Y擊斃，隨即被捕。乙對Y的死亡構成故意殺人既遂，甲在刑法上應如何處斷？",
+    "options": [
+      "(A) 乙已經因為甲而產生殺X的決意，完成教唆行為之甲，應成立教唆殺人既遂",
+      "(B) X並未被殺死，教唆目的並未達成，甲應成立教唆殺人未遂",
+      "(C) Y被殺死，與甲教唆乙之行為具有因果關係，甲應負教唆責任",
+      "(D) 乙殺Y之行為，並不在甲教唆範圍內，甲不負教唆責任"
+    ],
+    "answer": "D",
+    "explanation": "甲教唆乙殺X（特定人），乙卻殺Y（另一特定人）。這屬於「打擊錯誤」或「客體錯誤」的逾越，乙殺Y並非甲教唆之範圍，故甲對Y之死不負教唆責任。對X部分，乙尚未著手（僅預備），教唆預備殺人不罰（依當時刑法及學說，或視為教唆未遂但不罰）。最合適答案為D。"
+  },
+  {
+    "id": 27,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "公司法",
+    "question": "B公司為A公司之控制公司，B公司使A公司以低於市場之價格，出售土地予B公司之從屬公司C公司。下列敘述，何者錯誤？",
+    "options": [
+      "(A) B公司於會計年度終了時應對A公司為適當補償，否則應負賠償責任",
+      "(B) B公司於會計年度終了時未對A公司為適當補償者，B公司與其負責人對A公司之損害應負連帶賠償責任",
+      "(C) C公司於受有利益之範圍內，應與B公司對A公司之損害負連帶賠償責任",
+      "(D) A公司經股東會決議得免除B公司對其損害賠償之責任"
+    ],
+    "answer": "D",
+    "explanation": "公司法第369條之4第3項：受有利益之從屬公司（C），於受利益範圍內，與控制公司（B）負連帶賠償責任。第369條之5：控制公司之賠償責任，不得由從屬公司（A）以免除或拋棄。"
+  },
+  {
+    "id": 28,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "公司法",
+    "question": "A法人股東當選為B公司董事，指定自然人代表其行使職務，該代表人C並經B公司董事會推選為董事長。下列敘述，何者正確？",
+    "options": [
+      "(A) A法人股東得隨時改派代表人補足原董事之任期",
+      "(B) A法人股東得隨時改派代表人補足該董事長之任期",
+      "(C) A法人股東應經B公司監察人之同意，始得改派代表人",
+      "(D) A法人股東應經B公司股東會之同意，始得改派代表人"
+    ],
+    "answer": "A",
+    "explanation": "公司法第27條第3項：法人為股東時，得當選為董事或監察人。但須指定自然人代表行使職務。第27條第2、3項：法人得隨時改派其代表人補足原任期。"
+  },
+  {
+    "id": 29,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "勞動基準法",
+    "question": "下列那一項非屬勞動基準法所定勞工得自請退休之情形？",
+    "options": [
+      "(A) 工作5年且年滿70歲者",
+      "(B) 工作25年者",
+      "(C) 工作10年且年滿60歲者",
+      "(D) 工作15年且年滿55歲者"
+    ],
+    "answer": "A",
+    "explanation": "勞基法第53條自請退休要件：(1)工作15年以上年滿55歲；(2)工作25年以上；(3)工作10年以上年滿60歲。(A)不符。"
+  },
+  {
+    "id": 30,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "性別工作平等法",
+    "question": "我國性別工作平等法中有關性騷擾之防治相關規定，下列何者是其最重要的立法精神？",
+    "options": [
+      "(A) 嚴懲此類事件之行為人",
+      "(B) 強調雇主應負擔提供一免遭職場性騷擾而安全工作場所給所有員工之責任",
+      "(C) 給予此類事件被害人適當之補償",
+      "(D) 強調雇主與此類事件之行為人負連帶損害賠償責任"
+    ],
+    "answer": "B",
+    "explanation": "性別工作平等法之核心在於課予雇主「防治義務」，建立友善安全的工作環境。"
+  },
+  {
+    "id": 31,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "Roughly 4.5 billion years ago, a planetary embryo the size of Mars _______ into Earth, ripping off Earth's outer layers...",
+    "options": [
+      "(A) converted",
+      "(B) slammed",
+      "(C) tucked",
+      "(D) evolved"
+    ],
+    "answer": "B",
+    "explanation": "slammed (猛撞)。"
+  },
+  {
+    "id": 32,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "The new product sold in the market comes with some _______ including a backpack and an adapter.",
+    "options": [
+      "(A) accessories",
+      "(B) commuters",
+      "(C) syndromes",
+      "(D) impairments"
+    ],
+    "answer": "A",
+    "explanation": "accessories (配件)。"
+  },
+  {
+    "id": 33,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "In the gravity-free environment, our body cannot _______ up from down.",
+    "options": [
+      "(A) distinguish",
+      "(B) extinguish",
+      "(C) accomplish",
+      "(D) relinquish"
+    ],
+    "answer": "A",
+    "explanation": "distinguish (分辨)。"
+  },
+  {
+    "id": 34,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "Virus writers are skilled programmers who create and spread _______ viruses, which may cause great damage...",
+    "options": [
+      "(A) intimate",
+      "(B) malicious",
+      "(C) beneficial",
+      "(D) delectable"
+    ],
+    "answer": "B",
+    "explanation": "malicious (惡意的)。"
+  },
+  {
+    "id": 35,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "For some families, the topic of marriage is frequently initiated not by the child but rather by the parent.",
+    "options": [
+      "(A) For some families, usually it is the parent rather than the child who starts talking about marriage.",
+      "(B) For some families, the child welcomes the topic of marriage over dinner table.",
+      "(C) For some families, marriage is a serious topic that the child prefers to talk about.",
+      "(D) For some families, it is the parent who forces the child not to talk about marriage."
+    ],
+    "answer": "A",
+    "explanation": "原句意思：對某些家庭來說，婚姻話題通常不是由孩子，而是由父母發起的。與(A)相符。"
+  },
+  {
+    "id": 36,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "Like identical twins, Maureen and Jessica have many similarities _______. Their faces and builds are the same...",
+    "options": [
+      "(A) down and out",
+      "(B) ups and downs",
+      "(C) to the point",
+      "(D) on the surface"
+    ],
+    "answer": "D",
+    "explanation": "on the surface (表面上)。後文提到她們外表一樣，但內在興趣不同。"
+  },
+  {
+    "id": 37,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "But physicality is where the similarities _______. In terms of their academic interests... are very different...",
+    "options": [
+      "(A) sink",
+      "(B) end",
+      "(C) lose",
+      "(D) wish"
+    ],
+    "answer": "B",
+    "explanation": "end (結束)。相似之處到此為止。"
+  },
+  {
+    "id": 38,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "Like her sister, Jessica also _______ busy during her spare time;",
+    "options": [
+      "(A) is unable to keep",
+      "(B) is not used to being",
+      "(C) feels sorry for being",
+      "(D) prefers to keep"
+    ],
+    "answer": "D",
+    "explanation": "prefers to keep (偏好保持)。句意：Jessica 也喜歡在空閒時保持忙碌。"
+  },
+  {
+    "id": 39,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "_______ she would much rather read novels, write poetry, or paint.",
+    "options": [
+      "(A) on the other hand",
+      "(B) on the up side",
+      "(C) for her sister's sake",
+      "(D) for her innocence"
+    ],
+    "answer": "A",
+    "explanation": "on the other hand (另一方面)。Maureen 做實驗，另一方面 Jessica 讀小說。"
+  },
+  {
+    "id": 40,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "Many people wonder if the twins are always in _______ about their interests and ideas;",
+    "options": [
+      "(A) connection",
+      "(B) concern",
+      "(C) conflict",
+      "(D) control"
+    ],
+    "answer": "C",
+    "explanation": "conflict (衝突)。人們好奇她們興趣不同是否會衝突。"
+  },
+  {
+    "id": 41,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "Starbucks serves over 25 million customers... _______ So how did a company currently worth $5 billion get started?",
+    "options": [
+      "(A) These are just a few of the many specialty coffees on offer at Starbucks.",
+      "(B) But global success comes at a price.",
+      "(C) Today Starbucks is one of the world's most recognized brands.",
+      "(D) Many people feel that big corporations..."
+    ],
+    "answer": "C",
+    "explanation": "前文講規模，後文講價值，中間插入(C)「如今星巴克是全球最知名品牌之一」最連貫。"
+  },
+  {
+    "id": 42,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "A decade later, their fourth store in Seattle opened. _______",
+    "options": [
+      "(A) Facing competition...",
+      "(B) But global success...",
+      "(C) There are now stores...",
+      "(D) Their determination to provide the best quality coffee helped their business to succeed."
+    ],
+    "answer": "D",
+    "explanation": "承接上文講創始店，(D)「他們提供最高品質咖啡的決心幫助事業成功」解釋了初期的成長。"
+  },
+  {
+    "id": 43,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "...noticed that a small company in Seattle was ordering a large number of a special type of coffeemaker. _______",
+    "options": [
+      "(A) He modeled...",
+      "(B) He determined...",
+      "(C) He made the cross-country trip to Seattle out of curiosity to find out more.",
+      "(D) He faced competition..."
+    ],
+    "answer": "C",
+    "explanation": "Schultz 發現訂單異常，所以(C)「出於好奇橫跨全國去西雅圖一探究竟」符合邏輯。"
+  },
+  {
+    "id": 44,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "...Schultz was eventually hired to be the head of Starbucks marketing in 1982. _______ Within the next ten years...",
+    "options": [
+      "(A) He modeled the Starbucks stores on Italian espresso bars and made them comfortable places to relax.",
+      "(B) He felt that...",
+      "(C) He fired...",
+      "(D) He had no money..."
+    ],
+    "answer": "A",
+    "explanation": "Schultz 加入後，(A)「他以義大利濃縮咖啡吧為藍本打造星巴克」是星巴克轉型的關鍵。"
+  },
+  {
+    "id": 45,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "There are now stores all over Europe, Asia, and the Middle East. _______",
+    "options": [
+      "(A) However, Starbucks's...",
+      "(B) But global success comes at a price.",
+      "(C) Today Starbucks...",
+      "(D) Starbucks recently closed..."
+    ],
+    "answer": "C",
+    "explanation": "(C) Today Starbucks is one of the world's most recognized brands. 再次強調其國際地位。不過依題目順序與選項設計，41題選C，45題若選項重複則怪異。觀察45題的選項(C)與41題選項(C)文字完全一樣。回看題組，41題答案應為(C)，45題答案如果是(C)則重複。檢查標準答案：41是(C)，45是(C)。看來文章首尾呼應，或選項設計如此。"
+  },
+  {
+    "id": 46,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "Which of the following is a suitable title for this passage?",
+    "options": [
+      "(A) How Much Money Is a Human Life Worth?",
+      "(B) Human Rights and the Environment",
+      "(C) Human Rights vs. CBA",
+      "(D) How to Use CBA"
+    ],
+    "answer": "A",
+    "explanation": "文章主要討論經濟學家如何用 CBA (成本效益分析) 估算人命價值，以及這種做法對窮國人民權利的侵害。標題(A)「人命值多少錢？」最切題。"
+  },
+  {
+    "id": 47,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "Which of the following is the focus of 1994 document composed by experts in Geneva?",
+    "options": [
+      "(A) Human rights and the environment",
+      "(B) Human rights and economic growth",
+      "(C) Human rights of people in poor countries",
+      "(D) Human rights vs. the concept of fairness"
+    ],
+    "answer": "A",
+    "explanation": "文中提到文件名稱為 \"Draft Declaration of Principles on Human Rights and the Environment\"。"
+  },
+  {
+    "id": 48,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "According to the passage, what might be the problem of using CBA to estimate a life's monetary worth?",
+    "options": [
+      "(A) It will call attention to the valuable lives of future generation.",
+      "(B) It fails to reflect the higher prices of certain valuables.",
+      "(C) It leads to correct measurements of human life.",
+      "(D) It will notice the essential items in life."
+    ],
+    "answer": "B",
+    "explanation": "文中提到 CBA 低估了未來世代的生命價值，且窮國人命價值被算得比富國低。選項(B)「未能反映某些有價值事物的較高價格（如人命）」較接近批判觀點。"
+  },
+  {
+    "id": 49,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "According to the passage, which of the following statements is an argument for the benefit of economic growth?",
+    "options": [
+      "(A) Economic growth leads to higher salaries and more spending power for average Americans.",
+      "(B) Human welfare will be improved independent of economic growth.",
+      "(C) Government will give equal concern to all citizens.",
+      "(D) People in poor countries will be given equal human rights."
+    ],
+    "answer": "A",
+    "explanation": "文中提到：many economists give priority to economic growth because it leads to generally higher salaries and more spending power..."
+  },
+  {
+    "id": 50,
+    "subject": "法學知識與英文",
+    "year": 105,
+    "category": "英文",
+    "question": "Which of the following is closest in meaning to the word \"optimal\"?",
+    "options": [
+      "(A) favorable",
+      "(B) negligent",
+      "(C) inappropriate",
+      "(D) equal"
+    ],
+    "answer": "A",
+    "explanation": "optimal (最佳的)。與 favorable (有利的、良好的) 意思最接近。"
+  }
+
+]
