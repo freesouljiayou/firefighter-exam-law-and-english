@@ -7,23 +7,17 @@ import io
 from fpdf import FPDF 
 
 # ==========================================
-# 0. 網頁基礎設定 (改用這裡設定圖示)
+# 0. 網頁基礎設定
 # ==========================================
-# iPhone 會嘗試抓取這裡設定的 page_icon
-# 請確保你的資料夾裡有 'ios_icon.png' (那個有底色、不透明的版本)
 try:
-    # 直接讀取 ios_icon.png 當作全站圖示
     icon_image = Image.open("ios_icon.png") 
     st.set_page_config(
         page_title="升等考 法學知識與英文", 
-        page_icon=icon_image,  # <--- 關鍵：這裡餵給它高品質圖片
+        page_icon=icon_image, 
         layout="wide"
     )
-except FileNotFoundError:
-    # 萬一找不到圖片的備用方案
-    st.set_page_config(page_title="升等考 法學知識與英文", page_icon="🚒", layout="wide")
-
-# (注意：原本那個 0.5 def set_apple_icon... 的整段程式碼請直接刪除，因為沒用)
+except:
+    st.set_page_config(page_title="升等考 法學知識與英文", page_icon="⚖️", layout="wide")
 
 # ==========================================
 # 1. Google Sheets 資料庫功能
@@ -145,6 +139,7 @@ def create_pdf(questions, title):
     pdf.add_page()
     
     try:
+        # 確保資料夾內有 font.ttf
         pdf.add_font('ChineseFont', '', 'font.ttf')
         pdf.set_font('ChineseFont', '', 12)
     except:
@@ -159,35 +154,30 @@ def create_pdf(questions, title):
     pdf.set_font_size(11)
     
     for idx, q in enumerate(questions):
-        # 1. 檢查剩餘空間，如果快到底部了就換頁 (預防題目被切斷)
         if pdf.get_y() > 250:
             pdf.add_page()
 
-        # 2. 寫入題目
         q_year = q.get('year', '')
         q_id = str(q.get('id', ''))
         q_content = q.get('question', '')
         question_text = f"{idx + 1}. [{q_year}#{q_id[-2:]}] {q_content}"
-        pdf.multi_cell(0, 7, question_text) # 降低行高至 7
+        pdf.multi_cell(0, 7, question_text) 
         
-        # 3. 逐一寫入選項 (解決版型跑掉的關鍵)
         options = q.get('options', [])
-        pdf.ln(1) # 題目與選項間微小間隔
+        pdf.ln(1) 
         for opt in options:
-            pdf.set_x(15) # 左側縮排 15mm
-            # 使用 multi_cell 確保單個選項太長時也會自動在縮排範圍內換行
+            pdf.set_x(15) 
             pdf.multi_cell(0, 7, opt) 
         
-        # 4. 寫入正解 (放在選項下方，稍微留白)
         pdf.ln(1)
         pdf.set_x(15)
-        pdf.set_text_color(150, 150, 150) # 灰色
+        pdf.set_text_color(150, 150, 150)
         ans = q.get('answer', '')
         pdf.cell(0, 7, f"👉 正解: ({ans})", ln=True)
-        pdf.set_text_color(0, 0, 0) # 恢復黑色
+        pdf.set_text_color(0, 0, 0)
         
-        pdf.ln(5) # 題與題之間的間距
-        pdf.line(10, pdf.get_y(), 200, pdf.get_y()) # 畫一條淡淡的分隔線 (可選)
+        pdf.ln(5)
+        pdf.line(10, pdf.get_y(), 200, pdf.get_y())
         pdf.ln(5)
 
     return bytes(pdf.output())
@@ -204,7 +194,7 @@ if st.sidebar.button("💾 手動雲端存檔"):
 keyword = st.sidebar.text_input("🔍 搜尋關鍵字")
 st.sidebar.markdown("---")
 
-# --- 修正版 Radio 按鈕邏輯 (解決跳頁問題) ---
+# --- 模式選擇器 (解決跳頁問題) ---
 MODE_NORMAL = "normal"
 MODE_FAV = "fav"
 MODE_MIS = "mis"
@@ -231,7 +221,6 @@ except ValueError:
     current_index = 0
     st.session_state.view_mode = MODE_NORMAL
 
-# 建立 Radio
 mode_selection = st.sidebar.radio(
     "模式", 
     options, 
@@ -256,21 +245,8 @@ subject_data = [q for q in all_questions if q['subject'] == selected_subject]
 years_available = sorted(list(set([q['year'] for q in subject_data])), reverse=True)
 selected_years = [y for y in years_available if st.sidebar.checkbox(f"{y} 年", value=True)]
 
-# 資料池篩選
-current_pool = []
-for q in all_questions:
-    if q['subject'] != selected_subject: continue
-    if keyword and keyword not in q['question']: continue
-    
-    # 模式過濾
-    if mode == MODE_FAV and q['id'] not in st.session_state['favorites']: continue
-    if mode == MODE_MIS and q['id'] not in st.session_state['mistakes']: continue
-    
-    if q['year'] not in selected_years: continue
-    current_pool.append(q)
-
 # ==========================================
-# 4. 篩選功能 (針對法學英文簡化版)
+# 4. 篩選功能 (針對法學英文修正版)
 # ==========================================
 
 # 1. 建立資料池 (初步過濾：科目、年份、搜尋、模式)
@@ -282,37 +258,33 @@ for q in all_questions:
     # 關鍵字搜尋
     if keyword and keyword not in q['question']: continue
     
-    # 模式過濾
-    if st.session_state['mode_index'] == 1 and q['id'] not in st.session_state['favorites']: continue
-    if st.session_state['mode_index'] == 2 and q['id'] not in st.session_state['mistakes']: continue
+    # 模式過濾 (修正：使用 mode 變數，配合 MODE_FAV 常數)
+    if mode == MODE_FAV and q['id'] not in st.session_state['favorites']: continue
+    if mode == MODE_MIS and q['id'] not in st.session_state['mistakes']: continue
     
     current_pool.append(q)
 
 # 2. 領域篩選 (例如：憲法、民法、英文)
-# 先統計各領域的題目數量
 cat_counts = {}
 for q in current_pool:
-    cat = q.get('category', '未分類') # 使用 get 避免報錯
+    cat = q.get('category', '未分類')
     cat_counts[cat] = cat_counts.get(cat, 0) + 1
 
-# 建立選單選項
 categories = sorted(list(set([q.get('category', '未分類') for q in current_pool])))
 categories.insert(0, "全部")
 
-# 顯示側邊欄選單
 selected_category = st.sidebar.radio(
     "領域", 
     categories, 
     format_func=lambda x: f"{x} ({cat_counts.get(x, 0)})" if x != "全部" else f"全部 ({len(current_pool)})"
 )
 
-# 3. 最終定案 (產出 final_questions)
+# 3. 最終定案
 if selected_category == "全部":
     final_questions = current_pool
 else:
     final_questions = [q for q in current_pool if q.get('category') == selected_category]
 
-# (原本的「細項篩選」整段已經刪除，因為法學英文不需要)
 # ==========================================
 # 6. 主畫面顯示與 PDF 按鈕
 # ==========================================
@@ -323,7 +295,6 @@ st.write(f"題目數：{len(final_questions)}")
 if final_questions:
     col_dl1, col_dl2 = st.columns([0.7, 0.3])
     with col_dl2:
-        # 設定標題名稱
         if mode == MODE_FAV:
             pdf_title = f"【收藏題本】{st.session_state['username']} - {selected_subject}"
             btn_label = "🖨️ 匯出收藏題目 (PDF)"
@@ -350,7 +321,6 @@ if final_questions:
 
 st.markdown("---")
 
-# 顯示提示訊息
 if not final_questions:
     if mode == MODE_MIS:
         st.success("🎉 太棒了！目前的篩選範圍內沒有錯題！")
@@ -359,7 +329,6 @@ if not final_questions:
     else:
         st.warning("⚠️ 沒有符合條件的題目")
 
-# 顯示題目迴圈
 for q in final_questions:
     q_label = f"{q['year']}#{str(q['id'])[-2:]}"
     
@@ -369,7 +338,6 @@ for q in final_questions:
         with col_star:
             is_fav = q['id'] in st.session_state['favorites']
             btn_label = "⭐" if is_fav else "☆"
-            # 注意：這裡使用 key 確保按鈕獨立
             if st.button(btn_label, key=f"fav_{q['id']}"):
                 if is_fav:
                     st.session_state['favorites'].discard(q['id'])
@@ -381,25 +349,19 @@ for q in final_questions:
 
         with col_q:
             st.markdown(f"### **[{q_label}]** {q['question']}")
-            
-            # 選項顯示
             user_answer = st.radio("選項", q['options'], key=f"q_{q['id']}", label_visibility="collapsed", index=None)
             
             if user_answer:
-                # 取得選項的第一個字元 (A, B, C, D)
                 ans_char = user_answer.replace("(", "").replace(")", "").replace(".", "").strip()[0]
                 
                 if ans_char == q['answer']:
                     st.success(f"✅ 正確！")
-                    
-                    # 錯題模式下，答對自動移除並重整
                     if mode == MODE_MIS and q['id'] in st.session_state['mistakes']:
                         st.session_state['mistakes'].discard(q['id'])
                         save_user_data(st.session_state['username'], st.session_state['favorites'], st.session_state['mistakes'])
                         st.rerun()
                 else:
                     st.error(f"❌ 錯誤，答案是 {q['answer']}")
-                    # 答錯自動加入錯題
                     if q['id'] not in st.session_state['mistakes']:
                         st.session_state['mistakes'].add(q['id'])
                         save_user_data(st.session_state['username'], st.session_state['favorites'], st.session_state['mistakes'])
