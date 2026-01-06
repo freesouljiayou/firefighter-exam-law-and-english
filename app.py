@@ -139,48 +139,47 @@ def create_pdf(questions, title):
     pdf.add_page()
     
     try:
-        # 確保資料夾內有 font.ttf
         pdf.add_font('ChineseFont', '', 'font.ttf')
         pdf.set_font('ChineseFont', '', 12)
-    except:
+    except Exception as e:
+        st.error(f"❌ PDF 字型載入失敗: {e}")
         return None
 
-    # 標題
-    pdf.set_font_size(16)
-    pdf.cell(0, 10, title, ln=True, align='C')
-    pdf.ln(5)
-    
-    # 內容設定
-    pdf.set_font_size(11)
-    
-    for idx, q in enumerate(questions):
-        if pdf.get_y() > 250:
-            pdf.add_page()
-
-        q_year = q.get('year', '')
-        q_id = str(q.get('id', ''))
-        q_content = q.get('question', '')
-        question_text = f"{idx + 1}. [{q_year}#{q_id[-2:]}] {q_content}"
-        pdf.multi_cell(0, 7, question_text) 
-        
-        options = q.get('options', [])
-        pdf.ln(1) 
-        for opt in options:
-            pdf.set_x(15) 
-            pdf.multi_cell(0, 7, opt) 
-        
-        pdf.ln(1)
-        pdf.set_x(15)
-        pdf.set_text_color(150, 150, 150)
-        ans = q.get('answer', '')
-        pdf.cell(0, 7, f"👉 正解: ({ans})", ln=True)
-        pdf.set_text_color(0, 0, 0)
-        
+    try:
+        pdf.set_font_size(16)
+        # 使用 fpdf2 的標準換行控制
+        pdf.cell(0, 10, title, new_x="LMARGIN", new_y="NEXT", align='C')
         pdf.ln(5)
-        pdf.line(10, pdf.get_y(), 200, pdf.get_y())
-        pdf.ln(5)
+        
+        pdf.set_font_size(11)
+        for idx, q in enumerate(questions):
+            if pdf.get_y() > 250:
+                pdf.add_page()
 
-    return bytes(pdf.output())
+            q_text = f"{idx + 1}. [{q.get('year')}#{str(q.get('id'))[-2:]}] {q.get('question')}"
+            pdf.multi_cell(0, 7, q_text, new_x="LMARGIN", new_y="NEXT")
+            
+            pdf.ln(1)
+            for opt in q.get('options', []):
+                pdf.set_x(15)
+                pdf.multi_cell(0, 7, opt, new_x="LMARGIN", new_y="NEXT")
+            
+            pdf.ln(1)
+            pdf.set_x(15)
+            pdf.set_text_color(150, 150, 150)
+            pdf.cell(0, 7, f"👉 正解: ({q.get('answer')})", new_x="LMARGIN", new_y="NEXT")
+            pdf.set_text_color(0, 0, 0)
+            
+            pdf.ln(5)
+            pdf.line(10, pdf.get_y(), 200, pdf.get_y())
+            pdf.ln(5)
+            
+        # 【關鍵修正處】確保回傳 bytes 格式
+        return bytes(pdf.output()) 
+        
+    except Exception as e:
+        st.error(f"❌ PDF 排版出錯: {e}")
+        return None
 
 # ==========================================
 # 5. 側邊欄與篩選邏輯
